@@ -2,6 +2,18 @@ MARBLE: Mining for Boilerplate Code to Identify API Usability Problems
 ================
 MARBLE (Mining API Repositories for Boilerplate Lessening Effort) is an automated technique for identifying instances of boilerplate API client code. MARBLE adapts existing techniques, including an API usage mining algorithm, an AST comparison algorithm, and a graph partitioning algorithm.
 
+This is an implementation of our boilerplate code mining approach from our paper:
+```
+@inproceedings{nam2019marble,
+  title={MARBLE: Mining for Boilerplate Code to Identify API Usability Problems },
+  author={Nam, Daye and Horvath, Amber and Macvean, Andrew and Myers, Brad and Vasilescu, Bogdan},
+  booktitle={Proceedings of the 34rd ACM/IEEE International Conference on Automated Software Engineering},
+  year={2019}
+}
+```
+
+The paper and the results of MARBLE with 13 Java APIs are available here: [link](https://dayenam.com/MARBLE/)
+
 Further documentations for the source code and scripts to run end-to-end mining will be available soon. 
 Currently, runnables for MARBLE are available for use, and you can find them under ```runnables/``` or release tab. Example client code files and intermediate results for ```javax.xml.transform``` mining are available under ```data/```.
 
