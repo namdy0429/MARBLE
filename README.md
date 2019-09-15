@@ -12,7 +12,7 @@ This is an implementation of our boilerplate code mining approach from our paper
 }
 ```
 
-The paper and the results of MARBLE with 13 Java APIs are available here: [link](https://dayenam.com/MARBLE/)
+The paper and the results of MARBLE with 13 Java APIs are available [here](https://dayenam.com/MARBLE/)
 
 Further documentations for the source code and scripts to run end-to-end mining will be available soon. 
 Currently, runnables for MARBLE are available for use, and you can find them under ```runnables/``` or release tab. Example client code files and intermediate results for ```javax.xml.transform``` mining are available under ```data/```.
