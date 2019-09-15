@@ -1,0 +1,346 @@
+[javax.xml.transform.dom.DOMSource.<init>, javax.xml.transform.stream.StreamResult.<init>]
+
+jenkinsci_____jenkins_____IconTest
+libgdx_____libgdx_____TiledMapPacker
+0.005517
+6418, 6490, 6, 14239, 15508, 58
+
+jenkinsci_____jenkins_____IconTest
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+1.000000
+6418, 6490, 6, 5124, 5193, 6
+
+jenkinsci_____jenkins_____IconTest
+looly_____hutool_____XmlUtil
+0.740818
+6418, 6490, 6, 8050, 8132, 5
+
+jenkinsci_____jenkins_____IconTest
+deeplearning4j_____deeplearning4j_____Configuration
+0.016573
+6418, 6490, 6, 46259, 47834, 47
+
+jenkinsci_____jenkins_____IconTest
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.001836
+6418, 6490, 6, 4875, 7376, 69
+
+jenkinsci_____jenkins_____IconTest
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+1.000000
+6418, 6490, 6, 2097, 2155, 6
+
+jenkinsci_____jenkins_____IconTest
+antlr_____antlr4_____BaseCSharpTest
+0.001114
+6418, 6490, 6, 13903, 16438, 74
+
+jenkinsci_____jenkins_____IconTest
+apache_____jmeter_____XPathUtil
+0.406570
+6418, 6490, 6, 12953, 13280, 15
+
+jenkinsci_____jenkins_____IconTest
+apereo_____cas_____SamlUtils
+0.100259
+6418, 6490, 6, 4722, 5642, 29
+
+jenkinsci_____jenkins_____IconTest
+elastic_____elasticsearch_____SamlUtils
+1.000000
+6418, 6490, 6, 7256, 7327, 6
+
+jenkinsci_____jenkins_____IconTest
+alibaba_____fastjson_____MiscCodec
+0.301194
+6418, 6490, 6, 6586, 7100, 18
+
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+looly_____hutool_____XmlUtil
+0.740818
+2097, 2155, 6, 8050, 8132, 5
+
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+1.000000
+2097, 2155, 6, 5124, 5193, 6
+
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+deeplearning4j_____deeplearning4j_____Configuration
+0.016573
+2097, 2155, 6, 46259, 47834, 47
+
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+apereo_____cas_____SamlUtils
+0.100259
+2097, 2155, 6, 4722, 5642, 29
+
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.001836
+2097, 2155, 6, 4875, 7376, 69
+
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+alibaba_____fastjson_____MiscCodec
+0.301194
+2097, 2155, 6, 6586, 7100, 18
+
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+elastic_____elasticsearch_____SamlUtils
+1.000000
+2097, 2155, 6, 7256, 7327, 6
+
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+apache_____jmeter_____XPathUtil
+0.406570
+2097, 2155, 6, 12953, 13280, 15
+
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+antlr_____antlr4_____BaseCSharpTest
+0.001114
+2097, 2155, 6, 13903, 16438, 74
+
+apereo_____cas_____DefaultRelyingPartyTokenProducer
+libgdx_____libgdx_____TiledMapPacker
+0.005517
+2097, 2155, 6, 14239, 15508, 58
+
+apache_____jmeter_____XPathUtil
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+0.406570
+12953, 13280, 15, 5124, 5193, 6
+
+apache_____jmeter_____XPathUtil
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.002243
+12953, 13280, 15, 4875, 7376, 69
+
+apache_____jmeter_____XPathUtil
+deeplearning4j_____deeplearning4j_____Configuration
+0.024724
+12953, 13280, 15, 46259, 47834, 47
+
+apache_____jmeter_____XPathUtil
+apereo_____cas_____SamlUtils
+0.149569
+12953, 13280, 15, 4722, 5642, 29
+
+apache_____jmeter_____XPathUtil
+antlr_____antlr4_____BaseCSharpTest
+0.002029
+12953, 13280, 15, 13903, 16438, 74
+
+apache_____jmeter_____XPathUtil
+alibaba_____fastjson_____MiscCodec
+0.449329
+12953, 13280, 15, 6586, 7100, 18
+
+apache_____jmeter_____XPathUtil
+elastic_____elasticsearch_____SamlUtils
+0.406570
+12953, 13280, 15, 7256, 7327, 6
+
+apache_____jmeter_____XPathUtil
+libgdx_____libgdx_____TiledMapPacker
+0.009095
+12953, 13280, 15, 14239, 15508, 58
+
+apache_____jmeter_____XPathUtil
+looly_____hutool_____XmlUtil
+0.301194
+12953, 13280, 15, 8050, 8132, 5
+
+libgdx_____libgdx_____TiledMapPacker
+deeplearning4j_____deeplearning4j_____Configuration
+0.004517
+14239, 15508, 58, 46259, 47834, 47
+
+libgdx_____libgdx_____TiledMapPacker
+elastic_____elasticsearch_____SamlUtils
+0.005517
+14239, 15508, 58, 7256, 7327, 6
+
+libgdx_____libgdx_____TiledMapPacker
+antlr_____antlr4_____BaseCSharpTest
+0.000676
+14239, 15508, 58, 13903, 16438, 74
+
+libgdx_____libgdx_____TiledMapPacker
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+0.005517
+14239, 15508, 58, 5124, 5193, 6
+
+libgdx_____libgdx_____TiledMapPacker
+looly_____hutool_____XmlUtil
+0.004517
+14239, 15508, 58, 8050, 8132, 5
+
+libgdx_____libgdx_____TiledMapPacker
+apereo_____cas_____SamlUtils
+0.011109
+14239, 15508, 58, 4722, 5642, 29
+
+libgdx_____libgdx_____TiledMapPacker
+alibaba_____fastjson_____MiscCodec
+0.013569
+14239, 15508, 58, 6586, 7100, 18
+
+libgdx_____libgdx_____TiledMapPacker
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.002479
+14239, 15508, 58, 4875, 7376, 69
+
+looly_____hutool_____XmlUtil
+elastic_____elasticsearch_____SamlUtils
+0.740818
+8050, 8132, 5, 7256, 7327, 6
+
+looly_____hutool_____XmlUtil
+antlr_____antlr4_____BaseCSharpTest
+0.000912
+8050, 8132, 5, 13903, 16438, 74
+
+looly_____hutool_____XmlUtil
+deeplearning4j_____deeplearning4j_____Configuration
+0.013569
+8050, 8132, 5, 46259, 47834, 47
+
+looly_____hutool_____XmlUtil
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+0.740818
+8050, 8132, 5, 5124, 5193, 6
+
+looly_____hutool_____XmlUtil
+alibaba_____fastjson_____MiscCodec
+0.246597
+8050, 8132, 5, 6586, 7100, 18
+
+looly_____hutool_____XmlUtil
+apereo_____cas_____SamlUtils
+0.082085
+8050, 8132, 5, 4722, 5642, 29
+
+looly_____hutool_____XmlUtil
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.001503
+8050, 8132, 5, 4875, 7376, 69
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+elastic_____elasticsearch_____SamlUtils
+0.001836
+4875, 7376, 69, 7256, 7327, 6
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+0.001836
+4875, 7376, 69, 5124, 5193, 6
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+deeplearning4j_____deeplearning4j_____Configuration
+0.002479
+4875, 7376, 69, 46259, 47834, 47
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+alibaba_____fastjson_____MiscCodec
+0.002739
+4875, 7376, 69, 6586, 7100, 18
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+apereo_____cas_____SamlUtils
+0.002243
+4875, 7376, 69, 4722, 5642, 29
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+antlr_____antlr4_____BaseCSharpTest
+0.000371
+4875, 7376, 69, 13903, 16438, 74
+
+antlr_____antlr4_____BaseCSharpTest
+elastic_____elasticsearch_____SamlUtils
+0.001114
+13903, 16438, 74, 7256, 7327, 6
+
+antlr_____antlr4_____BaseCSharpTest
+alibaba_____fastjson_____MiscCodec
+0.001360
+13903, 16438, 74, 6586, 7100, 18
+
+antlr_____antlr4_____BaseCSharpTest
+deeplearning4j_____deeplearning4j_____Configuration
+0.001836
+13903, 16438, 74, 46259, 47834, 47
+
+antlr_____antlr4_____BaseCSharpTest
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+0.001114
+13903, 16438, 74, 5124, 5193, 6
+
+antlr_____antlr4_____BaseCSharpTest
+apereo_____cas_____SamlUtils
+0.001008
+13903, 16438, 74, 4722, 5642, 29
+
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+apereo_____cas_____SamlUtils
+0.100259
+5124, 5193, 6, 4722, 5642, 29
+
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+elastic_____elasticsearch_____SamlUtils
+1.000000
+5124, 5193, 6, 7256, 7327, 6
+
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+alibaba_____fastjson_____MiscCodec
+0.301194
+5124, 5193, 6, 6586, 7100, 18
+
+mikepenz_____Android-Iconics_____StringFieldsGenerator
+deeplearning4j_____deeplearning4j_____Configuration
+0.016573
+5124, 5193, 6, 46259, 47834, 47
+
+deeplearning4j_____deeplearning4j_____Configuration
+elastic_____elasticsearch_____SamlUtils
+0.016573
+46259, 47834, 47, 7256, 7327, 6
+
+deeplearning4j_____deeplearning4j_____Configuration
+apereo_____cas_____SamlUtils
+0.016573
+46259, 47834, 47, 4722, 5642, 29
+
+deeplearning4j_____deeplearning4j_____Configuration
+alibaba_____fastjson_____MiscCodec
+0.027324
+46259, 47834, 47, 6586, 7100, 18
+
+elastic_____elasticsearch_____SamlUtils
+apereo_____cas_____SamlUtils
+0.100259
+7256, 7327, 6, 4722, 5642, 29
+
+elastic_____elasticsearch_____SamlUtils
+alibaba_____fastjson_____MiscCodec
+0.301194
+7256, 7327, 6, 6586, 7100, 18
+
+apereo_____cas_____SamlUtils
+alibaba_____fastjson_____MiscCodec
+0.149569
+4722, 5642, 29, 6586, 7100, 18
+
+File Index Table
+
+0 	 jenkinsci_____jenkins_____IconTest 
+1 	 apereo_____cas_____DefaultRelyingPartyTokenProducer 
+2 	 apache_____jmeter_____XPathUtil 
+3 	 libgdx_____libgdx_____TiledMapPacker 
+4 	 looly_____hutool_____XmlUtil 
+5 	 hazelcast_____hazelcast_____AbstractXmlConfigHelper 
+6 	 antlr_____antlr4_____BaseCSharpTest 
+7 	 mikepenz_____Android-Iconics_____StringFieldsGenerator 
+8 	 deeplearning4j_____deeplearning4j_____Configuration 
+9 	 elastic_____elasticsearch_____SamlUtils 
+10 	 apereo_____cas_____SamlUtils 
+11 	 alibaba_____fastjson_____MiscCodec 

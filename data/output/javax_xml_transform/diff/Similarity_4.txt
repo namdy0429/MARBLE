@@ -1,0 +1,152 @@
+[javax.xml.transform.TransformerFactory.newTransformer]
+
+h2oai_____h2o-3_____XMLTestReporter
+deeplearning4j_____deeplearning4j_____Configuration
+0.027324
+1839, 2633, 26, 46263, 47759, 33
+
+h2oai_____h2o-3_____XMLTestReporter
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.033373
+1839, 2633, 26, 65300, 67106, 36
+
+h2oai_____h2o-3_____XMLTestReporter
+jenkinsci_____jenkins_____XMLUtils
+0.100259
+1839, 2633, 26, 9266, 9902, 5
+
+h2oai_____h2o-3_____XMLTestReporter
+looly_____hutool_____XmlUtil
+0.090718
+1839, 2633, 26, 8452, 8839, 17
+
+h2oai_____h2o-3_____XMLTestReporter
+alibaba_____fastjson_____MiscCodec
+0.090718
+1839, 2633, 26, 6597, 7093, 18
+
+h2oai_____h2o-3_____XMLTestReporter
+elastic_____elasticsearch_____SamlUtils
+0.110803
+1839, 2633, 26, 9664, 10354, 10
+
+h2oai_____h2o-3_____XMLTestReporter
+libgdx_____libgdx_____TiledMapPacker
+0.006097
+1839, 2633, 26, 14239, 15508, 58
+
+libgdx_____libgdx_____TiledMapPacker
+looly_____hutool_____XmlUtil
+0.009095
+14239, 15508, 58, 8452, 8839, 17
+
+libgdx_____libgdx_____TiledMapPacker
+jenkinsci_____jenkins_____XMLUtils
+0.004087
+14239, 15508, 58, 9266, 9902, 5
+
+libgdx_____libgdx_____TiledMapPacker
+deeplearning4j_____deeplearning4j_____Configuration
+0.003346
+14239, 15508, 58, 46263, 47759, 33
+
+libgdx_____libgdx_____TiledMapPacker
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.004087
+14239, 15508, 58, 65300, 67106, 36
+
+libgdx_____libgdx_____TiledMapPacker
+alibaba_____fastjson_____MiscCodec
+0.013569
+14239, 15508, 58, 6597, 7093, 18
+
+libgdx_____libgdx_____TiledMapPacker
+elastic_____elasticsearch_____SamlUtils
+0.004087
+14239, 15508, 58, 9664, 10354, 10
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+jenkinsci_____jenkins_____XMLUtils
+0.040762
+65300, 67106, 36, 9266, 9902, 5
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+looly_____hutool_____XmlUtil
+0.049787
+65300, 67106, 36, 8452, 8839, 17
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+deeplearning4j_____deeplearning4j_____Configuration
+0.016573
+65300, 67106, 36, 46263, 47759, 33
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+elastic_____elasticsearch_____SamlUtils
+0.036883
+65300, 67106, 36, 9664, 10354, 10
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+alibaba_____fastjson_____MiscCodec
+0.040762
+65300, 67106, 36, 6597, 7093, 18
+
+looly_____hutool_____XmlUtil
+elastic_____elasticsearch_____SamlUtils
+0.201897
+8452, 8839, 17, 9664, 10354, 10
+
+looly_____hutool_____XmlUtil
+deeplearning4j_____deeplearning4j_____Configuration
+0.036883
+8452, 8839, 17, 46263, 47759, 33
+
+looly_____hutool_____XmlUtil
+jenkinsci_____jenkins_____XMLUtils
+0.223130
+8452, 8839, 17, 9266, 9902, 5
+
+looly_____hutool_____XmlUtil
+alibaba_____fastjson_____MiscCodec
+0.332871
+8452, 8839, 17, 6597, 7093, 18
+
+jenkinsci_____jenkins_____XMLUtils
+elastic_____elasticsearch_____SamlUtils
+0.548812
+9266, 9902, 5, 9664, 10354, 10
+
+jenkinsci_____jenkins_____XMLUtils
+deeplearning4j_____deeplearning4j_____Configuration
+0.049787
+9266, 9902, 5, 46263, 47759, 33
+
+jenkinsci_____jenkins_____XMLUtils
+alibaba_____fastjson_____MiscCodec
+0.223130
+9266, 9902, 5, 6597, 7093, 18
+
+deeplearning4j_____deeplearning4j_____Configuration
+elastic_____elasticsearch_____SamlUtils
+0.045049
+46263, 47759, 33, 9664, 10354, 10
+
+deeplearning4j_____deeplearning4j_____Configuration
+alibaba_____fastjson_____MiscCodec
+0.030197
+46263, 47759, 33, 6597, 7093, 18
+
+elastic_____elasticsearch_____SamlUtils
+alibaba_____fastjson_____MiscCodec
+0.201897
+9664, 10354, 10, 6597, 7093, 18
+
+File Index Table
+
+0 	 h2oai_____h2o-3_____XMLTestReporter 
+1 	 libgdx_____libgdx_____TiledMapPacker 
+2 	 hazelcast_____hazelcast_____ConfigXmlGenerator 
+3 	 looly_____hutool_____XmlUtil 
+4 	 jenkinsci_____jenkins_____XMLUtils 
+5 	 deeplearning4j_____deeplearning4j_____Configuration 
+6 	 elastic_____elasticsearch_____SamlUtils 
+7 	 alibaba_____fastjson_____MiscCodec 

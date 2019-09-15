@@ -1,0 +1,14 @@
+javax.xml.transform.TransformerFactory.getAssociatedStylesheet
+javax.xml.transform.TransformerFactory.getAttribute
+javax.xml.transform.TransformerFactory.getErrorListener
+javax.xml.transform.TransformerFactory.getFeature
+javax.xml.transform.TransformerFactory.getURIResolver
+javax.xml.transform.TransformerFactory.newInstance
+javax.xml.transform.TransformerFactory.newInstance
+javax.xml.transform.TransformerFactory.newTemplates
+javax.xml.transform.TransformerFactory.newTransformer
+javax.xml.transform.TransformerFactory.newTransformer
+javax.xml.transform.TransformerFactory.setAttribute
+javax.xml.transform.TransformerFactory.setErrorListener
+javax.xml.transform.TransformerFactory.setFeature
+javax.xml.transform.TransformerFactory.setURIResolver

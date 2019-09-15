@@ -1,0 +1,16 @@
+Cluster 0
+ jenkinsci_____jenkins_____IconTest
+ mikepenz_____Android-Iconics_____StringFieldsGenerator
+ looly_____hutool_____XmlUtil
+ apereo_____cas_____DefaultRelyingPartyTokenProducer
+ elastic_____elasticsearch_____SamlUtils
+
+Cluster 1
+ libgdx_____libgdx_____TiledMapPacker
+ deeplearning4j_____deeplearning4j_____Configuration
+ hazelcast_____hazelcast_____AbstractXmlConfigHelper
+ apache_____jmeter_____XPathUtil
+ antlr_____antlr4_____BaseCSharpTest
+ apereo_____cas_____SamlUtils
+ alibaba_____fastjson_____MiscCodec
+

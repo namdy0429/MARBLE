@@ -1,0 +1,1530 @@
+[javax.xml.transform.stream.StreamSource.<init>]
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+0.201897
+2274, 2856, 21, 29344, 30157, 16
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+0.201897
+2274, 2856, 21, 2437, 2855, 16
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.740818
+2274, 2856, 21, 1696, 2226, 21
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.110803
+2274, 2856, 21, 2592, 3272, 17
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.049787
+2274, 2856, 21, 65300, 67106, 40
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____MavenTest
+0.055023
+2274, 2856, 21, 14462, 15815, 26
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+hibernate_____hibernate-orm_____LocalSchema
+0.740818
+2274, 2856, 21, 2370, 2900, 21
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____AbstractItem
+0.135335
+2274, 2856, 21, 32181, 32342, 10
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____RunMapTest
+0.090718
+2274, 2856, 21, 765, 1681, 21
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.165299
+2274, 2856, 21, 7213, 7320, 5
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+0.496585
+2274, 2856, 21, 5595, 6213, 26
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____UpdateViewCommand
+0.165299
+2274, 2856, 21, 1625, 1753, 4
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____TriggerStartTest
+0.135335
+2274, 2856, 21, 2700, 3174, 14
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.182684
+2274, 2856, 21, 1768, 2526, 10
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____XMLUtilsTest
+0.223130
+2274, 2856, 21, 2673, 3123, 14
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+junit-team_____junit5_____XmlReportAssertions
+0.246597
+2274, 2856, 21, 831, 1095, 11
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.182684
+2274, 2856, 21, 66156, 66986, 17
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____ItemGroupMixIn
+0.022371
+2274, 2856, 21, 10715, 12142, 46
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+elastic_____elasticsearch_____SamlUtils
+0.149569
+2274, 2856, 21, 10542, 11068, 15
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.149569
+2274, 2856, 21, 4056, 4725, 11
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____UpdateJobCommand
+0.149569
+2274, 2856, 21, 1668, 1788, 5
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+jenkinsci_____jenkins_____View
+0.135335
+2274, 2856, 21, 40894, 41066, 10
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.135335
+2274, 2856, 21, 9379, 10062, 12
+
+hibernate_____hibernate-orm_____LocalXsdResolver
+orhanobut_____logger_____LoggerPrinter
+0.122456
+2274, 2856, 21, 3200, 3759, 21
+
+jenkinsci_____jenkins_____RunMapTest
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+0.135335
+765, 1681, 21, 2437, 2855, 16
+
+jenkinsci_____jenkins_____RunMapTest
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.182684
+765, 1681, 21, 2592, 3272, 17
+
+jenkinsci_____jenkins_____RunMapTest
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.020242
+765, 1681, 21, 65300, 67106, 40
+
+jenkinsci_____jenkins_____RunMapTest
+jenkinsci_____jenkins_____MavenTest
+0.100259
+765, 1681, 21, 14462, 15815, 26
+
+jenkinsci_____jenkins_____RunMapTest
+hibernate_____hibernate-orm_____LocalSchema
+0.090718
+765, 1681, 21, 2370, 2900, 21
+
+jenkinsci_____jenkins_____RunMapTest
+jenkinsci_____jenkins_____AbstractItem
+0.135335
+765, 1681, 21, 32181, 32342, 10
+
+jenkinsci_____jenkins_____RunMapTest
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.135335
+765, 1681, 21, 5971, 6127, 9
+
+jenkinsci_____jenkins_____RunMapTest
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.090718
+765, 1681, 21, 1696, 2226, 21
+
+jenkinsci_____jenkins_____RunMapTest
+jenkinsci_____jenkins_____UpdateViewCommand
+0.182684
+765, 1681, 21, 1625, 1753, 4
+
+jenkinsci_____jenkins_____RunMapTest
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.165299
+765, 1681, 21, 1768, 2526, 10
+
+jenkinsci_____jenkins_____RunMapTest
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+0.060810
+765, 1681, 21, 5595, 6213, 26
+
+jenkinsci_____jenkins_____RunMapTest
+jenkinsci_____jenkins_____TriggerStartTest
+0.165299
+765, 1681, 21, 2700, 3174, 14
+
+jenkinsci_____jenkins_____RunMapTest
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.122456
+765, 1681, 21, 66156, 66986, 17
+
+jenkinsci_____jenkins_____RunMapTest
+jenkinsci_____jenkins_____XMLUtilsTest
+0.122456
+765, 1681, 21, 2673, 3123, 14
+
+jenkinsci_____jenkins_____RunMapTest
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.165299
+765, 1681, 21, 4056, 4725, 11
+
+jenkinsci_____jenkins_____RunMapTest
+junit-team_____junit5_____XmlReportAssertions
+0.149569
+765, 1681, 21, 831, 1095, 11
+
+jenkinsci_____jenkins_____RunMapTest
+jenkinsci_____jenkins_____UpdateJobCommand
+0.201897
+765, 1681, 21, 1668, 1788, 5
+
+jenkinsci_____jenkins_____RunMapTest
+jenkinsci_____jenkins_____ItemGroupMixIn
+0.011109
+765, 1681, 21, 10715, 12142, 46
+
+jenkinsci_____jenkins_____RunMapTest
+orhanobut_____logger_____LoggerPrinter
+0.090718
+765, 1681, 21, 3200, 3759, 21
+
+jenkinsci_____jenkins_____RunMapTest
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+0.122456
+765, 1681, 21, 29344, 30157, 16
+
+jenkinsci_____jenkins_____RunMapTest
+elastic_____elasticsearch_____SamlUtils
+0.149569
+765, 1681, 21, 10542, 11068, 15
+
+jenkinsci_____jenkins_____RunMapTest
+jenkinsci_____jenkins_____View
+0.122456
+765, 1681, 21, 40894, 41066, 10
+
+jenkinsci_____jenkins_____RunMapTest
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.165299
+765, 1681, 21, 9379, 10062, 12
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+0.122456
+5595, 6213, 26, 2437, 2855, 16
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.122456
+5595, 6213, 26, 1768, 2526, 10
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.135335
+5595, 6213, 26, 66156, 66986, 17
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.033373
+5595, 6213, 26, 65300, 67106, 40
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.100259
+5595, 6213, 26, 4056, 4725, 11
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+jenkinsci_____jenkins_____MavenTest
+0.036883
+5595, 6213, 26, 14462, 15815, 26
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.074274
+5595, 6213, 26, 2592, 3272, 17
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+hibernate_____hibernate-orm_____LocalSchema
+0.449329
+5595, 6213, 26, 2370, 2900, 21
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+jenkinsci_____jenkins_____AbstractItem
+0.090718
+5595, 6213, 26, 32181, 32342, 10
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.449329
+5595, 6213, 26, 1696, 2226, 21
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+jenkinsci_____jenkins_____TriggerStartTest
+0.100259
+5595, 6213, 26, 2700, 3174, 14
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+jenkinsci_____jenkins_____XMLUtilsTest
+0.149569
+5595, 6213, 26, 2673, 3123, 14
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+junit-team_____junit5_____XmlReportAssertions
+0.149569
+5595, 6213, 26, 831, 1095, 11
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+jenkinsci_____jenkins_____ItemGroupMixIn
+0.040762
+5595, 6213, 26, 10715, 12142, 46
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.100259
+5595, 6213, 26, 7213, 7320, 5
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+jenkinsci_____jenkins_____UpdateViewCommand
+0.100259
+5595, 6213, 26, 1625, 1753, 4
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+0.135335
+5595, 6213, 26, 29344, 30157, 16
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+jenkinsci_____jenkins_____UpdateJobCommand
+0.090718
+5595, 6213, 26, 1668, 1788, 5
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+jenkinsci_____jenkins_____View
+0.082085
+5595, 6213, 26, 40894, 41066, 10
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.090718
+5595, 6213, 26, 9379, 10062, 12
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+orhanobut_____logger_____LoggerPrinter
+0.090718
+5595, 6213, 26, 3200, 3759, 21
+
+hibernate_____hibernate-orm_____JaxbCfgProcessor
+elastic_____elasticsearch_____SamlUtils
+0.100259
+5595, 6213, 26, 10542, 11068, 15
+
+jenkinsci_____jenkins_____TriggerStartTest
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.022371
+2700, 3174, 14, 65300, 67106, 40
+
+jenkinsci_____jenkins_____TriggerStartTest
+jenkinsci_____jenkins_____MavenTest
+0.090718
+2700, 3174, 14, 14462, 15815, 26
+
+jenkinsci_____jenkins_____TriggerStartTest
+hibernate_____hibernate-orm_____LocalSchema
+0.135335
+2700, 3174, 14, 2370, 2900, 21
+
+jenkinsci_____jenkins_____TriggerStartTest
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.246597
+2700, 3174, 14, 5971, 6127, 9
+
+jenkinsci_____jenkins_____TriggerStartTest
+jenkinsci_____jenkins_____UpdateViewCommand
+0.367879
+2700, 3174, 14, 1625, 1753, 4
+
+jenkinsci_____jenkins_____TriggerStartTest
+jenkinsci_____jenkins_____AbstractItem
+0.223130
+2700, 3174, 14, 32181, 32342, 10
+
+jenkinsci_____jenkins_____TriggerStartTest
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.367879
+2700, 3174, 14, 1768, 2526, 10
+
+jenkinsci_____jenkins_____TriggerStartTest
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.246597
+2700, 3174, 14, 66156, 66986, 17
+
+jenkinsci_____jenkins_____TriggerStartTest
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.135335
+2700, 3174, 14, 1696, 2226, 21
+
+jenkinsci_____jenkins_____TriggerStartTest
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.332871
+2700, 3174, 14, 4056, 4725, 11
+
+jenkinsci_____jenkins_____TriggerStartTest
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.367879
+2700, 3174, 14, 2592, 3272, 17
+
+jenkinsci_____jenkins_____TriggerStartTest
+jenkinsci_____jenkins_____View
+0.246597
+2700, 3174, 14, 40894, 41066, 10
+
+jenkinsci_____jenkins_____TriggerStartTest
+jenkinsci_____jenkins_____XMLUtilsTest
+0.246597
+2700, 3174, 14, 2673, 3123, 14
+
+jenkinsci_____jenkins_____TriggerStartTest
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.332871
+2700, 3174, 14, 9379, 10062, 12
+
+jenkinsci_____jenkins_____TriggerStartTest
+jenkinsci_____jenkins_____UpdateJobCommand
+0.332871
+2700, 3174, 14, 1668, 1788, 5
+
+jenkinsci_____jenkins_____TriggerStartTest
+junit-team_____junit5_____XmlReportAssertions
+0.332871
+2700, 3174, 14, 831, 1095, 11
+
+jenkinsci_____jenkins_____TriggerStartTest
+orhanobut_____logger_____LoggerPrinter
+0.135335
+2700, 3174, 14, 3200, 3759, 21
+
+jenkinsci_____jenkins_____TriggerStartTest
+jenkinsci_____jenkins_____ItemGroupMixIn
+0.013569
+2700, 3174, 14, 10715, 12142, 46
+
+jenkinsci_____jenkins_____TriggerStartTest
+elastic_____elasticsearch_____SamlUtils
+0.223130
+2700, 3174, 14, 10542, 11068, 15
+
+jenkinsci_____jenkins_____TriggerStartTest
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+0.272532
+2700, 3174, 14, 29344, 30157, 16
+
+jenkinsci_____jenkins_____TriggerStartTest
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+0.223130
+2700, 3174, 14, 2437, 2855, 16
+
+jenkinsci_____jenkins_____XMLUtilsTest
+jenkinsci_____jenkins_____MavenTest
+0.074274
+2673, 3123, 14, 14462, 15815, 26
+
+jenkinsci_____jenkins_____XMLUtilsTest
+hibernate_____hibernate-orm_____LocalSchema
+0.223130
+2673, 3123, 14, 2370, 2900, 21
+
+jenkinsci_____jenkins_____XMLUtilsTest
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.332871
+2673, 3123, 14, 7213, 7320, 5
+
+jenkinsci_____jenkins_____XMLUtilsTest
+jenkinsci_____jenkins_____AbstractItem
+0.223130
+2673, 3123, 14, 32181, 32342, 10
+
+jenkinsci_____jenkins_____XMLUtilsTest
+jenkinsci_____jenkins_____UpdateViewCommand
+0.332871
+2673, 3123, 14, 1625, 1753, 4
+
+jenkinsci_____jenkins_____XMLUtilsTest
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.548812
+2673, 3123, 14, 1768, 2526, 10
+
+jenkinsci_____jenkins_____XMLUtilsTest
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.223130
+2673, 3123, 14, 1696, 2226, 21
+
+jenkinsci_____jenkins_____XMLUtilsTest
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.223130
+2673, 3123, 14, 66156, 66986, 17
+
+jenkinsci_____jenkins_____XMLUtilsTest
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.201897
+2673, 3123, 14, 2592, 3272, 17
+
+jenkinsci_____jenkins_____XMLUtilsTest
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.223130
+2673, 3123, 14, 4056, 4725, 11
+
+jenkinsci_____jenkins_____XMLUtilsTest
+junit-team_____junit5_____XmlReportAssertions
+0.548812
+2673, 3123, 14, 831, 1095, 11
+
+jenkinsci_____jenkins_____XMLUtilsTest
+jenkinsci_____jenkins_____View
+0.246597
+2673, 3123, 14, 40894, 41066, 10
+
+jenkinsci_____jenkins_____XMLUtilsTest
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.201897
+2673, 3123, 14, 9379, 10062, 12
+
+jenkinsci_____jenkins_____XMLUtilsTest
+jenkinsci_____jenkins_____UpdateJobCommand
+0.301194
+2673, 3123, 14, 1668, 1788, 5
+
+jenkinsci_____jenkins_____XMLUtilsTest
+jenkinsci_____jenkins_____ItemGroupMixIn
+0.022371
+2673, 3123, 14, 10715, 12142, 46
+
+jenkinsci_____jenkins_____XMLUtilsTest
+orhanobut_____logger_____LoggerPrinter
+0.367879
+2673, 3123, 14, 3200, 3759, 21
+
+jenkinsci_____jenkins_____XMLUtilsTest
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+0.246597
+2673, 3123, 14, 29344, 30157, 16
+
+jenkinsci_____jenkins_____XMLUtilsTest
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+0.496585
+2673, 3123, 14, 2437, 2855, 16
+
+jenkinsci_____jenkins_____XMLUtilsTest
+elastic_____elasticsearch_____SamlUtils
+0.301194
+2673, 3123, 14, 10542, 11068, 15
+
+jenkinsci_____jenkins_____XMLUtilsTest
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.055023
+2673, 3123, 14, 65300, 67106, 40
+
+junit-team_____junit5_____XmlReportAssertions
+jenkinsci_____jenkins_____UpdateViewCommand
+0.449329
+831, 1095, 11, 1625, 1753, 4
+
+junit-team_____junit5_____XmlReportAssertions
+hibernate_____hibernate-orm_____LocalSchema
+0.246597
+831, 1095, 11, 2370, 2900, 21
+
+junit-team_____junit5_____XmlReportAssertions
+jenkinsci_____jenkins_____AbstractItem
+0.301194
+831, 1095, 11, 32181, 32342, 10
+
+junit-team_____junit5_____XmlReportAssertions
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.449329
+831, 1095, 11, 1768, 2526, 10
+
+junit-team_____junit5_____XmlReportAssertions
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.301194
+831, 1095, 11, 66156, 66986, 17
+
+junit-team_____junit5_____XmlReportAssertions
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.246597
+831, 1095, 11, 1696, 2226, 21
+
+junit-team_____junit5_____XmlReportAssertions
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.301194
+831, 1095, 11, 4056, 4725, 11
+
+junit-team_____junit5_____XmlReportAssertions
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.246597
+831, 1095, 11, 2592, 3272, 17
+
+junit-team_____junit5_____XmlReportAssertions
+jenkinsci_____jenkins_____UpdateJobCommand
+0.406570
+831, 1095, 11, 1668, 1788, 5
+
+junit-team_____junit5_____XmlReportAssertions
+orhanobut_____logger_____LoggerPrinter
+0.272532
+831, 1095, 11, 3200, 3759, 21
+
+junit-team_____junit5_____XmlReportAssertions
+elastic_____elasticsearch_____SamlUtils
+0.332871
+831, 1095, 11, 10542, 11068, 15
+
+junit-team_____junit5_____XmlReportAssertions
+jenkinsci_____jenkins_____View
+0.332871
+831, 1095, 11, 40894, 41066, 10
+
+junit-team_____junit5_____XmlReportAssertions
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.301194
+831, 1095, 11, 9379, 10062, 12
+
+junit-team_____junit5_____XmlReportAssertions
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.406570
+831, 1095, 11, 7213, 7320, 5
+
+junit-team_____junit5_____XmlReportAssertions
+jenkinsci_____jenkins_____ItemGroupMixIn
+0.020242
+831, 1095, 11, 10715, 12142, 46
+
+junit-team_____junit5_____XmlReportAssertions
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+0.332871
+831, 1095, 11, 29344, 30157, 16
+
+junit-team_____junit5_____XmlReportAssertions
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+0.449329
+831, 1095, 11, 2437, 2855, 16
+
+junit-team_____junit5_____XmlReportAssertions
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.033373
+831, 1095, 11, 65300, 67106, 40
+
+junit-team_____junit5_____XmlReportAssertions
+jenkinsci_____jenkins_____MavenTest
+0.082085
+831, 1095, 11, 14462, 15815, 26
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.014996
+10715, 12142, 46, 66156, 66986, 17
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.012277
+10715, 12142, 46, 4056, 4725, 11
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+jenkinsci_____jenkins_____UpdateJobCommand
+0.014996
+10715, 12142, 46, 1668, 1788, 5
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+hibernate_____hibernate-orm_____LocalSchema
+0.022371
+10715, 12142, 46, 2370, 2900, 21
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+jenkinsci_____jenkins_____UpdateViewCommand
+0.013569
+10715, 12142, 46, 1625, 1753, 4
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+jenkinsci_____jenkins_____AbstractItem
+0.012277
+10715, 12142, 46, 32181, 32342, 10
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.014996
+10715, 12142, 46, 1768, 2526, 10
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+jenkinsci_____jenkins_____View
+0.011109
+10715, 12142, 46, 40894, 41066, 10
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.022371
+10715, 12142, 46, 1696, 2226, 21
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.012277
+10715, 12142, 46, 9379, 10062, 12
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.012277
+10715, 12142, 46, 2592, 3272, 17
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+orhanobut_____logger_____LoggerPrinter
+0.020242
+10715, 12142, 46, 3200, 3759, 21
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+elastic_____elasticsearch_____SamlUtils
+0.014996
+10715, 12142, 46, 10542, 11068, 15
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+0.014996
+10715, 12142, 46, 29344, 30157, 16
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+0.014996
+10715, 12142, 46, 2437, 2855, 16
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.006738
+10715, 12142, 46, 65300, 67106, 40
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.013569
+10715, 12142, 46, 7213, 7320, 5
+
+jenkinsci_____jenkins_____ItemGroupMixIn
+jenkinsci_____jenkins_____MavenTest
+0.012277
+10715, 12142, 46, 14462, 15815, 26
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.223130
+29344, 30157, 16, 1768, 2526, 10
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+jenkinsci_____jenkins_____AbstractItem
+0.182684
+29344, 30157, 16, 32181, 32342, 10
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.904837
+29344, 30157, 16, 66156, 66986, 17
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.496585
+29344, 30157, 16, 4056, 4725, 11
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.223130
+29344, 30157, 16, 1696, 2226, 21
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+jenkinsci_____jenkins_____UpdateJobCommand
+0.246597
+29344, 30157, 16, 1668, 1788, 5
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.182684
+29344, 30157, 16, 2592, 3272, 17
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+jenkinsci_____jenkins_____View
+0.201897
+29344, 30157, 16, 40894, 41066, 10
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.449329
+29344, 30157, 16, 9379, 10062, 12
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+orhanobut_____logger_____LoggerPrinter
+0.135335
+29344, 30157, 16, 3200, 3759, 21
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.272532
+29344, 30157, 16, 7213, 7320, 5
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+elastic_____elasticsearch_____SamlUtils
+0.201897
+29344, 30157, 16, 10542, 11068, 15
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+jenkinsci_____jenkins_____UpdateViewCommand
+0.272532
+29344, 30157, 16, 1625, 1753, 4
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+0.201897
+29344, 30157, 16, 2437, 2855, 16
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.030197
+29344, 30157, 16, 65300, 67106, 40
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+jenkinsci_____jenkins_____MavenTest
+0.067206
+29344, 30157, 16, 14462, 15815, 26
+
+hazelcast_____hazelcast_____XmlClientConfigBuilderTest
+hibernate_____hibernate-orm_____LocalSchema
+0.223130
+29344, 30157, 16, 2370, 2900, 21
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.301194
+2437, 2855, 16, 1768, 2526, 10
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.182684
+2437, 2855, 16, 66156, 66986, 17
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.201897
+2437, 2855, 16, 4056, 4725, 11
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.182684
+2437, 2855, 16, 1696, 2226, 21
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+jenkinsci_____jenkins_____UpdateJobCommand
+0.272532
+2437, 2855, 16, 1668, 1788, 5
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.182684
+2437, 2855, 16, 2592, 3272, 17
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+jenkinsci_____jenkins_____View
+0.201897
+2437, 2855, 16, 40894, 41066, 10
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.201897
+2437, 2855, 16, 9379, 10062, 12
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+orhanobut_____logger_____LoggerPrinter
+0.201897
+2437, 2855, 16, 3200, 3759, 21
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.272532
+2437, 2855, 16, 7213, 7320, 5
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+jenkinsci_____jenkins_____UpdateViewCommand
+0.301194
+2437, 2855, 16, 1625, 1753, 4
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+elastic_____elasticsearch_____SamlUtils
+0.246597
+2437, 2855, 16, 10542, 11068, 15
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+hazelcast_____hazelcast_____ConfigXmlGenerator
+0.033373
+2437, 2855, 16, 65300, 67106, 40
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+jenkinsci_____jenkins_____MavenTest
+0.074274
+2437, 2855, 16, 14462, 15815, 26
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+hibernate_____hibernate-orm_____LocalSchema
+0.182684
+2437, 2855, 16, 2370, 2900, 21
+
+jenkinsci_____jenkins_____AbstractItemSecurityTest
+jenkinsci_____jenkins_____AbstractItem
+0.182684
+2437, 2855, 16, 32181, 32342, 10
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.030197
+65300, 67106, 40, 66156, 66986, 17
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.020242
+65300, 67106, 40, 2592, 3272, 17
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.022371
+65300, 67106, 40, 4056, 4725, 11
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+jenkinsci_____jenkins_____UpdateJobCommand
+0.022371
+65300, 67106, 40, 1668, 1788, 5
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+orhanobut_____logger_____LoggerPrinter
+0.082085
+65300, 67106, 40, 3200, 3759, 21
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+elastic_____elasticsearch_____SamlUtils
+0.022371
+65300, 67106, 40, 10542, 11068, 15
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.024724
+65300, 67106, 40, 7213, 7320, 5
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+jenkinsci_____jenkins_____UpdateViewCommand
+0.024724
+65300, 67106, 40, 1625, 1753, 4
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.040762
+65300, 67106, 40, 1768, 2526, 10
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+jenkinsci_____jenkins_____View
+0.020242
+65300, 67106, 40, 40894, 41066, 10
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+jenkinsci_____jenkins_____MavenTest
+0.018316
+65300, 67106, 40, 14462, 15815, 26
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.022371
+65300, 67106, 40, 9379, 10062, 12
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+hibernate_____hibernate-orm_____LocalSchema
+0.049787
+65300, 67106, 40, 2370, 2900, 21
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+jenkinsci_____jenkins_____AbstractItem
+0.020242
+65300, 67106, 40, 32181, 32342, 10
+
+hazelcast_____hazelcast_____ConfigXmlGenerator
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.049787
+65300, 67106, 40, 1696, 2226, 21
+
+jenkinsci_____jenkins_____MavenTest
+jenkinsci_____jenkins_____UpdateJobCommand
+0.122456
+14462, 15815, 26, 1668, 1788, 5
+
+jenkinsci_____jenkins_____MavenTest
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.082085
+14462, 15815, 26, 2592, 3272, 17
+
+jenkinsci_____jenkins_____MavenTest
+orhanobut_____logger_____LoggerPrinter
+0.060810
+14462, 15815, 26, 3200, 3759, 21
+
+jenkinsci_____jenkins_____MavenTest
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.067206
+14462, 15815, 26, 66156, 66986, 17
+
+jenkinsci_____jenkins_____MavenTest
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.090718
+14462, 15815, 26, 4056, 4725, 11
+
+jenkinsci_____jenkins_____MavenTest
+jenkinsci_____jenkins_____View
+0.074274
+14462, 15815, 26, 40894, 41066, 10
+
+jenkinsci_____jenkins_____MavenTest
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.090718
+14462, 15815, 26, 9379, 10062, 12
+
+jenkinsci_____jenkins_____MavenTest
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.082085
+14462, 15815, 26, 5971, 6127, 9
+
+jenkinsci_____jenkins_____MavenTest
+jenkinsci_____jenkins_____UpdateViewCommand
+0.110803
+14462, 15815, 26, 1625, 1753, 4
+
+jenkinsci_____jenkins_____MavenTest
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.110803
+14462, 15815, 26, 1768, 2526, 10
+
+jenkinsci_____jenkins_____MavenTest
+elastic_____elasticsearch_____SamlUtils
+0.090718
+14462, 15815, 26, 10542, 11068, 15
+
+jenkinsci_____jenkins_____MavenTest
+hibernate_____hibernate-orm_____LocalSchema
+0.055023
+14462, 15815, 26, 2370, 2900, 21
+
+jenkinsci_____jenkins_____MavenTest
+jenkinsci_____jenkins_____AbstractItem
+0.074274
+14462, 15815, 26, 32181, 32342, 10
+
+jenkinsci_____jenkins_____MavenTest
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.055023
+14462, 15815, 26, 1696, 2226, 21
+
+hibernate_____hibernate-orm_____LocalSchema
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.165299
+2370, 2900, 21, 4056, 4725, 11
+
+hibernate_____hibernate-orm_____LocalSchema
+jenkinsci_____jenkins_____UpdateJobCommand
+0.149569
+2370, 2900, 21, 1668, 1788, 5
+
+hibernate_____hibernate-orm_____LocalSchema
+orhanobut_____logger_____LoggerPrinter
+0.135335
+2370, 2900, 21, 3200, 3759, 21
+
+hibernate_____hibernate-orm_____LocalSchema
+jenkinsci_____jenkins_____View
+0.135335
+2370, 2900, 21, 40894, 41066, 10
+
+hibernate_____hibernate-orm_____LocalSchema
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.149569
+2370, 2900, 21, 9379, 10062, 12
+
+hibernate_____hibernate-orm_____LocalSchema
+elastic_____elasticsearch_____SamlUtils
+0.149569
+2370, 2900, 21, 10542, 11068, 15
+
+hibernate_____hibernate-orm_____LocalSchema
+jenkinsci_____jenkins_____AbstractItem
+0.149569
+2370, 2900, 21, 32181, 32342, 10
+
+hibernate_____hibernate-orm_____LocalSchema
+hibernate_____hibernate-orm_____LocalSchemaLocator
+1.000000
+2370, 2900, 21, 1696, 2226, 21
+
+hibernate_____hibernate-orm_____LocalSchema
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.165299
+2370, 2900, 21, 7213, 7320, 5
+
+hibernate_____hibernate-orm_____LocalSchema
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.110803
+2370, 2900, 21, 2592, 3272, 17
+
+hibernate_____hibernate-orm_____LocalSchema
+jenkinsci_____jenkins_____UpdateViewCommand
+0.165299
+2370, 2900, 21, 1625, 1753, 4
+
+hibernate_____hibernate-orm_____LocalSchema
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.182684
+2370, 2900, 21, 1768, 2526, 10
+
+hibernate_____hibernate-orm_____LocalSchema
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.201897
+2370, 2900, 21, 66156, 66986, 17
+
+jenkinsci_____jenkins_____AbstractItem
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.301194
+32181, 32342, 10, 4056, 4725, 11
+
+jenkinsci_____jenkins_____AbstractItem
+jenkinsci_____jenkins_____UpdateJobCommand
+0.496585
+32181, 32342, 10, 1668, 1788, 5
+
+jenkinsci_____jenkins_____AbstractItem
+orhanobut_____logger_____LoggerPrinter
+0.110803
+32181, 32342, 10, 3200, 3759, 21
+
+jenkinsci_____jenkins_____AbstractItem
+jenkinsci_____jenkins_____View
+0.818731
+32181, 32342, 10, 40894, 41066, 10
+
+jenkinsci_____jenkins_____AbstractItem
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.272532
+32181, 32342, 10, 9379, 10062, 12
+
+jenkinsci_____jenkins_____AbstractItem
+elastic_____elasticsearch_____SamlUtils
+0.223130
+32181, 32342, 10, 10542, 11068, 15
+
+jenkinsci_____jenkins_____AbstractItem
+hibernate_____hibernate-orm_____LocalSchemaLocator
+0.149569
+32181, 32342, 10, 1696, 2226, 21
+
+jenkinsci_____jenkins_____AbstractItem
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.201897
+32181, 32342, 10, 2592, 3272, 17
+
+jenkinsci_____jenkins_____AbstractItem
+jenkinsci_____jenkins_____UpdateViewCommand
+0.449329
+32181, 32342, 10, 1625, 1753, 4
+
+jenkinsci_____jenkins_____AbstractItem
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.301194
+32181, 32342, 10, 1768, 2526, 10
+
+jenkinsci_____jenkins_____AbstractItem
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.670320
+32181, 32342, 10, 5971, 6127, 9
+
+jenkinsci_____jenkins_____AbstractItem
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.165299
+32181, 32342, 10, 66156, 66986, 17
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+jenkinsci_____jenkins_____UpdateJobCommand
+0.149569
+1696, 2226, 21, 1668, 1788, 5
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+orhanobut_____logger_____LoggerPrinter
+0.135335
+1696, 2226, 21, 3200, 3759, 21
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.182684
+1696, 2226, 21, 1768, 2526, 10
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+elastic_____elasticsearch_____SamlUtils
+0.149569
+1696, 2226, 21, 10542, 11068, 15
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+jenkinsci_____jenkins_____View
+0.135335
+1696, 2226, 21, 40894, 41066, 10
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.201897
+1696, 2226, 21, 66156, 66986, 17
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.149569
+1696, 2226, 21, 9379, 10062, 12
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+0.110803
+1696, 2226, 21, 2592, 3272, 17
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.165299
+1696, 2226, 21, 4056, 4725, 11
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.165299
+1696, 2226, 21, 7213, 7320, 5
+
+hibernate_____hibernate-orm_____LocalSchemaLocator
+jenkinsci_____jenkins_____UpdateViewCommand
+0.165299
+1696, 2226, 21, 1625, 1753, 4
+
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+orhanobut_____logger_____LoggerPrinter
+0.100259
+2592, 3272, 17, 3200, 3759, 21
+
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+elastic_____elasticsearch_____SamlUtils
+0.182684
+2592, 3272, 17, 10542, 11068, 15
+
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.301194
+2592, 3272, 17, 1768, 2526, 10
+
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+jenkinsci_____jenkins_____UpdateJobCommand
+0.301194
+2592, 3272, 17, 1668, 1788, 5
+
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+jenkinsci_____jenkins_____View
+0.182684
+2592, 3272, 17, 40894, 41066, 10
+
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.182684
+2592, 3272, 17, 66156, 66986, 17
+
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.246597
+2592, 3272, 17, 9379, 10062, 12
+
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.246597
+2592, 3272, 17, 4056, 4725, 11
+
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+0.201897
+2592, 3272, 17, 7213, 7320, 5
+
+jenkinsci_____jenkins_____BuildDiscarderPropertyTest
+jenkinsci_____jenkins_____UpdateViewCommand
+0.272532
+2592, 3272, 17, 1625, 1753, 4
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.246597
+7213, 7320, 5, 66156, 66986, 17
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+orhanobut_____logger_____LoggerPrinter
+0.149569
+7213, 7320, 5, 3200, 3759, 21
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.332871
+5971, 6127, 9, 4056, 4725, 11
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+jenkinsci_____jenkins_____UpdateJobCommand
+0.606531
+7213, 7320, 5, 1668, 1788, 5
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+jenkinsci_____jenkins_____UpdateViewCommand
+0.606531
+7213, 7320, 5, 1625, 1753, 4
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+elastic_____elasticsearch_____SamlUtils
+0.272532
+5971, 6127, 9, 10542, 11068, 15
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+jenkinsci_____jenkins_____View
+0.740818
+5971, 6127, 9, 40894, 41066, 10
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.367879
+5971, 6127, 9, 1768, 2526, 10
+
+hazelcast_____hazelcast_____AbstractXmlConfigHelper
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.301194
+5971, 6127, 9, 9379, 10062, 12
+
+jenkinsci_____jenkins_____UpdateViewCommand
+orhanobut_____logger_____LoggerPrinter
+0.165299
+1625, 1753, 4, 3200, 3759, 21
+
+jenkinsci_____jenkins_____UpdateViewCommand
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.449329
+1625, 1753, 4, 4056, 4725, 11
+
+jenkinsci_____jenkins_____UpdateViewCommand
+jenkinsci_____jenkins_____UpdateJobCommand
+0.904837
+1625, 1753, 4, 1668, 1788, 5
+
+jenkinsci_____jenkins_____UpdateViewCommand
+elastic_____elasticsearch_____SamlUtils
+0.301194
+1625, 1753, 4, 10542, 11068, 15
+
+jenkinsci_____jenkins_____UpdateViewCommand
+spring-projects_____spring-boot_____SampleWsApplicationTests
+0.496585
+1625, 1753, 4, 1768, 2526, 10
+
+jenkinsci_____jenkins_____UpdateViewCommand
+jenkinsci_____jenkins_____View
+0.496585
+1625, 1753, 4, 40894, 41066, 10
+
+jenkinsci_____jenkins_____UpdateViewCommand
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.406570
+1625, 1753, 4, 9379, 10062, 12
+
+jenkinsci_____jenkins_____UpdateViewCommand
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.246597
+1625, 1753, 4, 66156, 66986, 17
+
+spring-projects_____spring-boot_____SampleWsApplicationTests
+jenkinsci_____jenkins_____UpdateJobCommand
+0.449329
+1768, 2526, 10, 1668, 1788, 5
+
+spring-projects_____spring-boot_____SampleWsApplicationTests
+elastic_____elasticsearch_____SamlUtils
+0.301194
+1768, 2526, 10, 10542, 11068, 15
+
+spring-projects_____spring-boot_____SampleWsApplicationTests
+orhanobut_____logger_____LoggerPrinter
+0.272532
+1768, 2526, 10, 3200, 3759, 21
+
+spring-projects_____spring-boot_____SampleWsApplicationTests
+jenkinsci_____jenkins_____View
+0.332871
+1768, 2526, 10, 40894, 41066, 10
+
+spring-projects_____spring-boot_____SampleWsApplicationTests
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.301194
+1768, 2526, 10, 9379, 10062, 12
+
+spring-projects_____spring-boot_____SampleWsApplicationTests
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+0.201897
+1768, 2526, 10, 66156, 66986, 17
+
+spring-projects_____spring-boot_____SampleWsApplicationTests
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.301194
+1768, 2526, 10, 4056, 4725, 11
+
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+jenkinsci_____jenkins_____UpdateJobCommand
+0.223130
+66156, 66986, 17, 1668, 1788, 5
+
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+orhanobut_____logger_____LoggerPrinter
+0.135335
+66156, 66986, 17, 3200, 3759, 21
+
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+elastic_____elasticsearch_____SamlUtils
+0.182684
+66156, 66986, 17, 10542, 11068, 15
+
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+0.496585
+66156, 66986, 17, 4056, 4725, 11
+
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.496585
+66156, 66986, 17, 9379, 10062, 12
+
+hazelcast_____hazelcast_____XMLConfigBuilderTest
+jenkinsci_____jenkins_____View
+0.182684
+66156, 66986, 17, 40894, 41066, 10
+
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.818731
+4056, 4725, 11, 9379, 10062, 12
+
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+orhanobut_____logger_____LoggerPrinter
+0.135335
+4056, 4725, 11, 3200, 3759, 21
+
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+elastic_____elasticsearch_____SamlUtils
+0.332871
+4056, 4725, 11, 10542, 11068, 15
+
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+jenkinsci_____jenkins_____View
+0.332871
+4056, 4725, 11, 40894, 41066, 10
+
+hazelcast_____hazelcast_____ClientDiscoverySpiTest
+jenkinsci_____jenkins_____UpdateJobCommand
+0.406570
+4056, 4725, 11, 1668, 1788, 5
+
+jenkinsci_____jenkins_____UpdateJobCommand
+elastic_____elasticsearch_____SamlUtils
+0.272532
+1668, 1788, 5, 10542, 11068, 15
+
+jenkinsci_____jenkins_____UpdateJobCommand
+orhanobut_____logger_____LoggerPrinter
+0.149569
+1668, 1788, 5, 3200, 3759, 21
+
+jenkinsci_____jenkins_____UpdateJobCommand
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.367879
+1668, 1788, 5, 9379, 10062, 12
+
+jenkinsci_____jenkins_____UpdateJobCommand
+jenkinsci_____jenkins_____View
+0.449329
+1668, 1788, 5, 40894, 41066, 10
+
+orhanobut_____logger_____LoggerPrinter
+elastic_____elasticsearch_____SamlUtils
+0.165299
+3200, 3759, 21, 10542, 11068, 15
+
+orhanobut_____logger_____LoggerPrinter
+jenkinsci_____jenkins_____View
+0.122456
+3200, 3759, 21, 40894, 41066, 10
+
+orhanobut_____logger_____LoggerPrinter
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.135335
+3200, 3759, 21, 9379, 10062, 12
+
+elastic_____elasticsearch_____SamlUtils
+jenkinsci_____jenkins_____View
+0.246597
+10542, 11068, 15, 40894, 41066, 10
+
+elastic_____elasticsearch_____SamlUtils
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.301194
+10542, 11068, 15, 9379, 10062, 12
+
+jenkinsci_____jenkins_____View
+hazelcast_____hazelcast_____DiscoverySpiTest
+0.301194
+40894, 41066, 10, 9379, 10062, 12
+
+File Index Table
+
+0 	 hibernate_____hibernate-orm_____LocalXsdResolver 
+1 	 jenkinsci_____jenkins_____RunMapTest 
+2 	 hibernate_____hibernate-orm_____JaxbCfgProcessor 
+3 	 jenkinsci_____jenkins_____TriggerStartTest 
+4 	 jenkinsci_____jenkins_____XMLUtilsTest 
+5 	 junit-team_____junit5_____XmlReportAssertions 
+6 	 jenkinsci_____jenkins_____ItemGroupMixIn 
+7 	 hazelcast_____hazelcast_____XmlClientConfigBuilderTest 
+8 	 jenkinsci_____jenkins_____AbstractItemSecurityTest 
+9 	 hazelcast_____hazelcast_____ConfigXmlGenerator 
+10 	 jenkinsci_____jenkins_____MavenTest 
+11 	 hibernate_____hibernate-orm_____LocalSchema 
+12 	 jenkinsci_____jenkins_____AbstractItem 
+13 	 hibernate_____hibernate-orm_____LocalSchemaLocator 
+14 	 jenkinsci_____jenkins_____BuildDiscarderPropertyTest 
+15 	 hazelcast_____hazelcast_____AbstractXmlConfigHelper 
+16 	 jenkinsci_____jenkins_____UpdateViewCommand 
+17 	 spring-projects_____spring-boot_____SampleWsApplicationTests 
+18 	 hazelcast_____hazelcast_____XMLConfigBuilderTest 
+19 	 hazelcast_____hazelcast_____ClientDiscoverySpiTest 
+20 	 jenkinsci_____jenkins_____UpdateJobCommand 
+21 	 orhanobut_____logger_____LoggerPrinter 
+22 	 elastic_____elasticsearch_____SamlUtils 
+23 	 Activiti_____Activiti_____BpmnXMLConverter 
+24 	 jenkinsci_____jenkins_____View 
+25 	 hazelcast_____hazelcast_____DiscoverySpiTest 

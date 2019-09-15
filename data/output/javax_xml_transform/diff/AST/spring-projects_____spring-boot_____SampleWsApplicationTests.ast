@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<root>
+  <context></context>
+  <tree type="15" typeLabel="CompilationUnit" pos="0" length="2530">
+    <tree type="35" typeLabel="PackageDeclaration" pos="622" length="27">
+      <tree type="40" label="sample.webservices" typeLabel="QualifiedName" pos="630" length="18"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="651" length="28">
+      <tree type="40" label="java.io.StringReader" typeLabel="QualifiedName" pos="658" length="20"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="681" length="47">
+      <tree type="40" label="javax.xml.transform.stream.StreamResult" typeLabel="QualifiedName" pos="688" length="39"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="729" length="47">
+      <tree type="40" label="javax.xml.transform.stream.StreamSource" typeLabel="QualifiedName" pos="736" length="39"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="778" length="24">
+      <tree type="40" label="org.junit.Before" typeLabel="QualifiedName" pos="785" length="16"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="803" length="22">
+      <tree type="40" label="org.junit.Rule" typeLabel="QualifiedName" pos="810" length="14"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="826" length="22">
+      <tree type="40" label="org.junit.Test" typeLabel="QualifiedName" pos="833" length="14"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="849" length="32">
+      <tree type="40" label="org.junit.runner.RunWith" typeLabel="QualifiedName" pos="856" length="24"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="883" length="60">
+      <tree type="40" label="org.springframework.boot.test.context.SpringBootTest" typeLabel="QualifiedName" pos="890" length="52"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="944" length="75">
+      <tree type="40" label="org.springframework.boot.test.context.SpringBootTest.WebEnvironment" typeLabel="QualifiedName" pos="951" length="67"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1020" length="56">
+      <tree type="40" label="org.springframework.boot.test.rule.OutputCapture" typeLabel="QualifiedName" pos="1027" length="48"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1077" length="59">
+      <tree type="40" label="org.springframework.boot.web.server.LocalServerPort" typeLabel="QualifiedName" pos="1084" length="51"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1137" length="60">
+      <tree type="40" label="org.springframework.test.context.junit4.SpringRunner" typeLabel="QualifiedName" pos="1144" length="52"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1198" length="61">
+      <tree type="40" label="org.springframework.ws.client.core.WebServiceTemplate" typeLabel="QualifiedName" pos="1205" length="53"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1261" length="57">
+      <tree type="40" label="org.assertj.core.api.Assertions.assertThat" typeLabel="QualifiedName" pos="1275" length="42"></tree>
+    </tree>
+    <tree type="55" typeLabel="TypeDeclaration" pos="1320" length="1209">
+      <tree type="79" typeLabel="SingleMemberAnnotation" pos="1320" length="28">
+        <tree type="42" label="RunWith" typeLabel="SimpleName" pos="1321" length="7"></tree>
+        <tree type="57" typeLabel="TypeLiteral" pos="1329" length="18">
+          <tree type="43" label="SpringRunner" typeLabel="SimpleType" pos="1329" length="12">
+            <tree type="42" label="SpringRunner" typeLabel="SimpleName" pos="1329" length="12"></tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="77" typeLabel="NormalAnnotation" pos="1349" length="60">
+        <tree type="42" label="SpringBootTest" typeLabel="SimpleName" pos="1350" length="14"></tree>
+        <tree type="80" typeLabel="MemberValuePair" pos="1365" length="43">
+          <tree type="42" label="webEnvironment" typeLabel="SimpleName" pos="1365" length="14"></tree>
+          <tree type="40" label="WebEnvironment.RANDOM_PORT" typeLabel="QualifiedName" pos="1382" length="26"></tree>
+        </tree>
+      </tree>
+      <tree type="83" label="public" typeLabel="Modifier" pos="1410" length="6"></tree>
+      <tree type="42" label="SampleWsApplicationTests" typeLabel="SimpleName" pos="1423" length="24"></tree>
+      <tree type="23" typeLabel="FieldDeclaration" pos="1452" length="57">
+        <tree type="78" typeLabel="MarkerAnnotation" pos="1452" length="5">
+          <tree type="42" label="Rule" typeLabel="SimpleName" pos="1453" length="4"></tree>
+        </tree>
+        <tree type="83" label="public" typeLabel="Modifier" pos="1459" length="6"></tree>
+        <tree type="43" label="OutputCapture" typeLabel="SimpleType" pos="1466" length="13">
+          <tree type="42" label="OutputCapture" typeLabel="SimpleName" pos="1466" length="13"></tree>
+        </tree>
+        <tree type="59" typeLabel="VariableDeclarationFragment" pos="1480" length="28">
+          <tree type="42" label="output" typeLabel="SimpleName" pos="1480" length="6"></tree>
+          <tree type="14" typeLabel="ClassInstanceCreation" pos="1489" length="19">
+            <tree type="43" label="OutputCapture" typeLabel="SimpleType" pos="1493" length="13">
+              <tree type="42" label="OutputCapture" typeLabel="SimpleName" pos="1493" length="13"></tree>
+            </tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="23" typeLabel="FieldDeclaration" pos="1512" length="73">
+        <tree type="83" label="private" typeLabel="Modifier" pos="1512" length="7"></tree>
+        <tree type="43" label="WebServiceTemplate" typeLabel="SimpleType" pos="1520" length="18">
+          <tree type="42" label="WebServiceTemplate" typeLabel="SimpleName" pos="1520" length="18"></tree>
+        </tree>
+        <tree type="59" typeLabel="VariableDeclarationFragment" pos="1539" length="45">
+          <tree type="42" label="webServiceTemplate" typeLabel="SimpleName" pos="1539" length="18"></tree>
+          <tree type="14" typeLabel="ClassInstanceCreation" pos="1560" length="24">
+            <tree type="43" label="WebServiceTemplate" typeLabel="SimpleType" pos="1564" length="18">
+              <tree type="42" label="WebServiceTemplate" typeLabel="SimpleName" pos="1564" length="18"></tree>
+            </tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="23" typeLabel="FieldDeclaration" pos="1588" length="41">
+        <tree type="78" typeLabel="MarkerAnnotation" pos="1588" length="16">
+          <tree type="42" label="LocalServerPort" typeLabel="SimpleName" pos="1589" length="15"></tree>
+        </tree>
+        <tree type="83" label="private" typeLabel="Modifier" pos="1606" length="7"></tree>
+        <tree type="39" label="int" typeLabel="PrimitiveType" pos="1614" length="3"></tree>
+        <tree type="59" typeLabel="VariableDeclarationFragment" pos="1618" length="10">
+          <tree type="42" label="serverPort" typeLabel="SimpleName" pos="1618" length="10"></tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="1632" length="133">
+        <tree type="78" typeLabel="MarkerAnnotation" pos="1632" length="7">
+          <tree type="42" label="Before" typeLabel="SimpleName" pos="1633" length="6"></tree>
+        </tree>
+        <tree type="83" label="public" typeLabel="Modifier" pos="1641" length="6"></tree>
+        <tree type="39" label="void" typeLabel="PrimitiveType" pos="1648" length="4"></tree>
+        <tree type="42" label="setUp" typeLabel="SimpleName" pos="1653" length="5"></tree>
+        <tree type="8" typeLabel="Block" pos="1661" length="104">
+          <tree type="21" typeLabel="ExpressionStatement" pos="1665" length="97">
+            <tree type="32" typeLabel="MethodInvocation" pos="1665" length="96">
+              <tree type="22" typeLabel="FieldAccess" pos="1665" length="23">
+                <tree type="52" typeLabel="ThisExpression" pos="1665" length="4"></tree>
+                <tree type="42" label="webServiceTemplate" typeLabel="SimpleName" pos="1670" length="18"></tree>
+              </tree>
+              <tree type="42" label="setDefaultUri" typeLabel="SimpleName" pos="1694" length="13"></tree>
+              <tree type="27" label="+" typeLabel="InfixExpression" pos="1708" length="52">
+                <tree type="45" label="&quot;http://localhost:&quot;" typeLabel="StringLiteral" pos="1708" length="19"></tree>
+                <tree type="22" typeLabel="FieldAccess" pos="1730" length="15">
+                  <tree type="52" typeLabel="ThisExpression" pos="1730" length="4"></tree>
+                  <tree type="42" label="serverPort" typeLabel="SimpleName" pos="1735" length="10"></tree>
+                </tree>
+                <tree type="45" label="&quot;/services/&quot;" typeLabel="StringLiteral" pos="1748" length="12"></tree>
+              </tree>
+            </tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="1768" length="758">
+        <tree type="78" typeLabel="MarkerAnnotation" pos="1768" length="5">
+          <tree type="42" label="Test" typeLabel="SimpleName" pos="1769" length="4"></tree>
+        </tree>
+        <tree type="83" label="public" typeLabel="Modifier" pos="1775" length="6"></tree>
+        <tree type="39" label="void" typeLabel="PrimitiveType" pos="1782" length="4"></tree>
+        <tree type="42" label="testSendingHolidayRequest" typeLabel="SimpleName" pos="1787" length="25"></tree>
+        <tree type="8" typeLabel="Block" pos="1815" length="711">
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="1819" length="439">
+            <tree type="83" label="final" typeLabel="Modifier" pos="1819" length="5"></tree>
+            <tree type="43" label="String" typeLabel="SimpleType" pos="1825" length="6">
+              <tree type="42" label="String" typeLabel="SimpleName" pos="1825" length="6"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="1832" length="425">
+              <tree type="42" label="request" typeLabel="SimpleName" pos="1832" length="7"></tree>
+              <tree type="27" label="+" typeLabel="InfixExpression" pos="1842" length="415">
+                <tree type="45" label="&quot;&lt;hr:HolidayRequest xmlns:hr=\&quot;http://mycompany.com/hr/schemas\&quot;&gt;&quot;" typeLabel="StringLiteral" pos="1842" length="66"></tree>
+                <tree type="45" label="&quot;   &lt;hr:Holiday&gt;&quot;" typeLabel="StringLiteral" pos="1915" length="17"></tree>
+                <tree type="45" label="&quot;      &lt;hr:StartDate&gt;2013-10-20&lt;/hr:StartDate&gt;&quot;" typeLabel="StringLiteral" pos="1935" length="47"></tree>
+                <tree type="45" label="&quot;      &lt;hr:EndDate&gt;2013-11-22&lt;/hr:EndDate&gt;&quot;" typeLabel="StringLiteral" pos="1989" length="43"></tree>
+                <tree type="45" label="&quot;   &lt;/hr:Holiday&gt;&quot;" typeLabel="StringLiteral" pos="2035" length="18"></tree>
+                <tree type="45" label="&quot;   &lt;hr:Employee&gt;&quot;" typeLabel="StringLiteral" pos="2060" length="18"></tree>
+                <tree type="45" label="&quot;      &lt;hr:Number&gt;1&lt;/hr:Number&gt;&quot;" typeLabel="StringLiteral" pos="2081" length="32"></tree>
+                <tree type="45" label="&quot;      &lt;hr:FirstName&gt;John&lt;/hr:FirstName&gt;&quot;" typeLabel="StringLiteral" pos="2120" length="41"></tree>
+                <tree type="45" label="&quot;      &lt;hr:LastName&gt;Doe&lt;/hr:LastName&gt;&quot;" typeLabel="StringLiteral" pos="2168" length="38"></tree>
+                <tree type="45" label="&quot;   &lt;/hr:Employee&gt;&quot;" typeLabel="StringLiteral" pos="2209" length="19"></tree>
+                <tree type="45" label="&quot;&lt;/hr:HolidayRequest&gt;&quot;" typeLabel="StringLiteral" pos="2235" length="22"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="2261" length="66">
+            <tree type="43" label="StreamSource" typeLabel="SimpleType" pos="2261" length="12">
+              <tree type="42" label="StreamSource" typeLabel="SimpleName" pos="2261" length="12"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="2274" length="52">
+              <tree type="42" label="source" typeLabel="SimpleName" pos="2274" length="6"></tree>
+              <tree type="14" typeLabel="ClassInstanceCreation" pos="2283" length="43">
+                <tree type="43" label="StreamSource" typeLabel="SimpleType" pos="2287" length="12">
+                  <tree type="42" label="StreamSource" typeLabel="SimpleName" pos="2287" length="12"></tree>
+                </tree>
+                <tree type="14" typeLabel="ClassInstanceCreation" pos="2300" length="25">
+                  <tree type="43" label="StringReader" typeLabel="SimpleType" pos="2304" length="12">
+                    <tree type="42" label="StringReader" typeLabel="SimpleName" pos="2304" length="12"></tree>
+                  </tree>
+                  <tree type="42" label="request" typeLabel="SimpleName" pos="2317" length="7"></tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="2330" length="51">
+            <tree type="43" label="StreamResult" typeLabel="SimpleType" pos="2330" length="12">
+              <tree type="42" label="StreamResult" typeLabel="SimpleName" pos="2330" length="12"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="2343" length="37">
+              <tree type="42" label="result" typeLabel="SimpleName" pos="2343" length="6"></tree>
+              <tree type="14" typeLabel="ClassInstanceCreation" pos="2352" length="28">
+                <tree type="43" label="StreamResult" typeLabel="SimpleType" pos="2356" length="12">
+                  <tree type="42" label="StreamResult" typeLabel="SimpleName" pos="2356" length="12"></tree>
+                </tree>
+                <tree type="40" label="System.out" typeLabel="QualifiedName" pos="2369" length="10"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="2384" length="69">
+            <tree type="32" typeLabel="MethodInvocation" pos="2384" length="68">
+              <tree type="22" typeLabel="FieldAccess" pos="2384" length="23">
+                <tree type="52" typeLabel="ThisExpression" pos="2384" length="4"></tree>
+                <tree type="42" label="webServiceTemplate" typeLabel="SimpleName" pos="2389" length="18"></tree>
+              </tree>
+              <tree type="42" label="sendSourceAndReceiveToResult" typeLabel="SimpleName" pos="2408" length="28"></tree>
+              <tree type="42" label="source" typeLabel="SimpleName" pos="2437" length="6"></tree>
+              <tree type="42" label="result" typeLabel="SimpleName" pos="2445" length="6"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="2456" length="67">
+            <tree type="32" typeLabel="MethodInvocation" pos="2456" length="66">
+              <tree type="32" typeLabel="MethodInvocation" pos="2456" length="34">
+                <tree type="42" label="assertThat" typeLabel="SimpleName" pos="2456" length="10"></tree>
+                <tree type="32" typeLabel="MethodInvocation" pos="2467" length="22">
+                  <tree type="22" typeLabel="FieldAccess" pos="2467" length="11">
+                    <tree type="52" typeLabel="ThisExpression" pos="2467" length="4"></tree>
+                    <tree type="42" label="output" typeLabel="SimpleName" pos="2472" length="6"></tree>
+                  </tree>
+                  <tree type="42" label="toString" typeLabel="SimpleName" pos="2479" length="8"></tree>
+                </tree>
+              </tree>
+              <tree type="42" label="contains" typeLabel="SimpleName" pos="2491" length="8"></tree>
+              <tree type="45" label="&quot;Booking holiday for&quot;" typeLabel="StringLiteral" pos="2500" length="21"></tree>
+            </tree>
+          </tree>
+        </tree>
+      </tree>
+    </tree>
+  </tree>
+</root>

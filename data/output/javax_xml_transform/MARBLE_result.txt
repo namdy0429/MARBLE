@@ -1,0 +1,45 @@
+data/output/javax_xml_transform/diff/pattern_0.edgelist
+[javax.xml.transform.stream.StreamSource.<init>]
+
+num alive partition: 3
+num alive nodes: 21
+num partition: 4
+num nodes: 25
+num partition of 90%: 2
+
+data/output/javax_xml_transform/diff/pattern_1.edgelist
+[javax.xml.transform.dom.DOMSource.<init>, javax.xml.transform.stream.StreamResult.<init>]
+
+num alive partition: 2
+num alive nodes: 12
+num partition: 2
+num nodes: 12
+num partition of 90%: 1
+
+data/output/javax_xml_transform/diff/pattern_3.edgelist
+[javax.xml.transform.TransformerFactory.newInstance, javax.xml.transform.Transformer.transform]
+
+num alive partition: 1
+num alive nodes: 7
+num partition: 2
+num nodes: 11
+num partition of 90%: 0
+
+data/output/javax_xml_transform/diff/pattern_4.edgelist
+[javax.xml.transform.TransformerFactory.newTransformer]
+
+num alive partition: 1
+num alive nodes: 6
+num partition: 2
+num nodes: 8
+num partition of 90%: 0
+
+data/output/javax_xml_transform/diff/pattern_5.edgelist
+[javax.xml.transform.Transformer.setOutputProperty]
+
+num alive partition: 1
+num alive nodes: 5
+num partition: 2
+num nodes: 8
+num partition of 90%: 0
+

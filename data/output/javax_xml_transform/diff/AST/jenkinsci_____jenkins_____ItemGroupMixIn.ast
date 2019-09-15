@@ -1,0 +1,1900 @@
+<?xml version="1.0" ?>
+<root>
+  <context></context>
+  <tree type="15" typeLabel="CompilationUnit" pos="0" length="12871">
+    <tree type="35" typeLabel="PackageDeclaration" pos="1195" length="21">
+      <tree type="40" label="hudson.model" typeLabel="QualifiedName" pos="1203" length="12"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1218" length="19">
+      <tree type="40" label="hudson.Util" typeLabel="QualifiedName" pos="1225" length="11"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1238" length="22">
+      <tree type="40" label="hudson.XmlFile" typeLabel="QualifiedName" pos="1245" length="14"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1261" length="43">
+      <tree type="40" label="hudson.model.listeners.ItemListener" typeLabel="QualifiedName" pos="1268" length="35"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1305" length="40">
+      <tree type="40" label="hudson.security.AccessControlled" typeLabel="QualifiedName" pos="1312" length="32"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1346" length="34">
+      <tree type="40" label="hudson.util.CopyOnWriteMap" typeLabel="QualifiedName" pos="1353" length="26"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1381" length="29">
+      <tree type="40" label="hudson.util.Function1" typeLabel="QualifiedName" pos="1388" length="21"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1411" length="26">
+      <tree type="40" label="hudson.util.Secret" typeLabel="QualifiedName" pos="1418" length="18"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1438" length="29">
+      <tree type="40" label="jenkins.model.Jenkins" typeLabel="QualifiedName" pos="1445" length="21"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1468" length="33">
+      <tree type="40" label="jenkins.util.xml.XMLUtils" typeLabel="QualifiedName" pos="1475" length="25"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1502" length="42">
+      <tree type="40" label="org.kohsuke.stapler.StaplerRequest" typeLabel="QualifiedName" pos="1509" length="34"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1545" length="43">
+      <tree type="40" label="org.kohsuke.stapler.StaplerResponse" typeLabel="QualifiedName" pos="1552" length="35"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1590" length="38">
+      <tree type="40" label="javax.servlet.ServletException" typeLabel="QualifiedName" pos="1597" length="30"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1629" length="46">
+      <tree type="40" label="javax.servlet.http.HttpServletResponse" typeLabel="QualifiedName" pos="1636" length="38"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1676" length="34">
+      <tree type="40" label="javax.xml.transform.Source" typeLabel="QualifiedName" pos="1683" length="26"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1711" length="48">
+      <tree type="40" label="javax.xml.transform.TransformerException" typeLabel="QualifiedName" pos="1718" length="40"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1760" length="47">
+      <tree type="40" label="javax.xml.transform.stream.StreamResult" typeLabel="QualifiedName" pos="1767" length="39"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1808" length="47">
+      <tree type="40" label="javax.xml.transform.stream.StreamSource" typeLabel="QualifiedName" pos="1815" length="39"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1856" length="20">
+      <tree type="40" label="java.io.File" typeLabel="QualifiedName" pos="1863" length="12"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1877" length="26">
+      <tree type="40" label="java.io.FileFilter" typeLabel="QualifiedName" pos="1884" length="18"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1904" length="27">
+      <tree type="40" label="java.io.IOException" typeLabel="QualifiedName" pos="1911" length="19"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1932" length="27">
+      <tree type="40" label="java.io.InputStream" typeLabel="QualifiedName" pos="1939" length="19"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1960" length="27">
+      <tree type="40" label="java.nio.file.Files" typeLabel="QualifiedName" pos="1967" length="19"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="1988" length="40">
+      <tree type="40" label="java.nio.file.StandardCopyOption" typeLabel="QualifiedName" pos="1995" length="32"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="2029" length="21">
+      <tree type="40" label="java.util.Map" typeLabel="QualifiedName" pos="2036" length="13"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="2051" length="31">
+      <tree type="40" label="java.util.logging.Level" typeLabel="QualifiedName" pos="2058" length="23"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="2083" length="32">
+      <tree type="40" label="java.util.logging.Logger" typeLabel="QualifiedName" pos="2090" length="24"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="2116" length="31">
+      <tree type="40" label="java.util.regex.Matcher" typeLabel="QualifiedName" pos="2123" length="23"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="2148" length="55">
+      <tree type="40" label="jenkins.security.NotReallyRoleSensitiveCallable" typeLabel="QualifiedName" pos="2155" length="47"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="2204" length="47">
+      <tree type="40" label="org.acegisecurity.AccessDeniedException" typeLabel="QualifiedName" pos="2211" length="39"></tree>
+    </tree>
+    <tree type="26" typeLabel="ImportDeclaration" pos="2252" length="32">
+      <tree type="40" label="org.xml.sax.SAXException" typeLabel="QualifiedName" pos="2259" length="24"></tree>
+    </tree>
+    <tree type="55" typeLabel="TypeDeclaration" pos="2286" length="10584">
+      <tree type="29" typeLabel="Javadoc" pos="2286" length="227">
+        <tree type="65" typeLabel="TagElement" pos="2293" length="161">
+          <tree type="66" label="Defines a bunch of static methods to be used as a &quot;mix-in&quot; for " typeLabel="TextElement" pos="2293" length="63"></tree>
+          <tree type="65" label="@link" typeLabel="TagElement" pos="2356" length="17">
+            <tree type="42" label="ItemGroup" typeLabel="SimpleName" pos="2363" length="9"></tree>
+          </tree>
+          <tree type="66" label="implementations. Not meant for a consumption from outside " typeLabel="TextElement" pos="2377" length="58"></tree>
+          <tree type="65" label="@link" typeLabel="TagElement" pos="2435" length="17">
+            <tree type="42" label="ItemGroup" typeLabel="SimpleName" pos="2442" length="9"></tree>
+          </tree>
+          <tree type="66" label="s." typeLabel="TextElement" pos="2452" length="2"></tree>
+        </tree>
+        <tree type="65" label="@author" typeLabel="TagElement" pos="2461" length="25">
+          <tree type="66" label=" Kohsuke Kawaguchi" typeLabel="TextElement" pos="2468" length="18"></tree>
+        </tree>
+        <tree type="65" label="@see" typeLabel="TagElement" pos="2490" length="19">
+          <tree type="42" label="ViewGroupMixIn" typeLabel="SimpleName" pos="2495" length="14"></tree>
+        </tree>
+      </tree>
+      <tree type="83" label="public" typeLabel="Modifier" pos="2514" length="6"></tree>
+      <tree type="83" label="abstract" typeLabel="Modifier" pos="2521" length="8"></tree>
+      <tree type="42" label="ItemGroupMixIn" typeLabel="SimpleName" pos="2536" length="14"></tree>
+      <tree type="23" typeLabel="FieldDeclaration" pos="2557" length="98">
+        <tree type="29" typeLabel="Javadoc" pos="2557" length="62">
+          <tree type="65" typeLabel="TagElement" pos="2568" length="43">
+            <tree type="65" label="@link" typeLabel="TagElement" pos="2568" length="17">
+              <tree type="42" label="ItemGroup" typeLabel="SimpleName" pos="2575" length="9"></tree>
+            </tree>
+            <tree type="66" label=" for which we are working." typeLabel="TextElement" pos="2585" length="26"></tree>
+          </tree>
+        </tree>
+        <tree type="83" label="private" typeLabel="Modifier" pos="2624" length="7"></tree>
+        <tree type="83" label="final" typeLabel="Modifier" pos="2632" length="5"></tree>
+        <tree type="43" label="ItemGroup" typeLabel="SimpleType" pos="2638" length="9">
+          <tree type="42" label="ItemGroup" typeLabel="SimpleName" pos="2638" length="9"></tree>
+        </tree>
+        <tree type="59" typeLabel="VariableDeclarationFragment" pos="2648" length="6">
+          <tree type="42" label="parent" typeLabel="SimpleName" pos="2648" length="6"></tree>
+        </tree>
+      </tree>
+      <tree type="23" typeLabel="FieldDeclaration" pos="2660" length="35">
+        <tree type="83" label="private" typeLabel="Modifier" pos="2660" length="7"></tree>
+        <tree type="83" label="final" typeLabel="Modifier" pos="2668" length="5"></tree>
+        <tree type="43" label="AccessControlled" typeLabel="SimpleType" pos="2674" length="16">
+          <tree type="42" label="AccessControlled" typeLabel="SimpleName" pos="2674" length="16"></tree>
+        </tree>
+        <tree type="59" typeLabel="VariableDeclarationFragment" pos="2691" length="3">
+          <tree type="42" label="acl" typeLabel="SimpleName" pos="2691" length="3"></tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="2701" length="126">
+        <tree type="83" label="protected" typeLabel="Modifier" pos="2701" length="9"></tree>
+        <tree type="42" label="ItemGroupMixIn" typeLabel="SimpleName" pos="2711" length="14"></tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="2726" length="16">
+          <tree type="43" label="ItemGroup" typeLabel="SimpleType" pos="2726" length="9">
+            <tree type="42" label="ItemGroup" typeLabel="SimpleName" pos="2726" length="9"></tree>
+          </tree>
+          <tree type="42" label="parent" typeLabel="SimpleName" pos="2736" length="6"></tree>
+        </tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="2744" length="20">
+          <tree type="43" label="AccessControlled" typeLabel="SimpleType" pos="2744" length="16">
+            <tree type="42" label="AccessControlled" typeLabel="SimpleName" pos="2744" length="16"></tree>
+          </tree>
+          <tree type="42" label="acl" typeLabel="SimpleName" pos="2761" length="3"></tree>
+        </tree>
+        <tree type="8" typeLabel="Block" pos="2766" length="61">
+          <tree type="21" typeLabel="ExpressionStatement" pos="2776" length="21">
+            <tree type="7" label="=" typeLabel="Assignment" pos="2776" length="20">
+              <tree type="22" typeLabel="FieldAccess" pos="2776" length="11">
+                <tree type="52" typeLabel="ThisExpression" pos="2776" length="4"></tree>
+                <tree type="42" label="parent" typeLabel="SimpleName" pos="2781" length="6"></tree>
+              </tree>
+              <tree type="42" label="parent" typeLabel="SimpleName" pos="2790" length="6"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="2806" length="15">
+            <tree type="7" label="=" typeLabel="Assignment" pos="2806" length="14">
+              <tree type="22" typeLabel="FieldAccess" pos="2806" length="8">
+                <tree type="52" typeLabel="ThisExpression" pos="2806" length="4"></tree>
+                <tree type="42" label="acl" typeLabel="SimpleName" pos="2811" length="3"></tree>
+              </tree>
+              <tree type="42" label="acl" typeLabel="SimpleName" pos="2817" length="3"></tree>
+            </tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="2922" length="111">
+        <tree type="29" typeLabel="Javadoc" pos="2922" length="59">
+          <tree type="65" typeLabel="TagElement" pos="2933" length="40">
+            <tree type="66" label="Adds a newly created item to the parent." typeLabel="TextElement" pos="2933" length="40"></tree>
+          </tree>
+        </tree>
+        <tree type="83" label="protected" typeLabel="Modifier" pos="2986" length="9"></tree>
+        <tree type="83" label="abstract" typeLabel="Modifier" pos="2996" length="8"></tree>
+        <tree type="39" label="void" typeLabel="PrimitiveType" pos="3005" length="4"></tree>
+        <tree type="42" label="add" typeLabel="SimpleName" pos="3010" length="3"></tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="3014" length="17">
+          <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="3014" length="12">
+            <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="3014" length="12"></tree>
+          </tree>
+          <tree type="42" label="item" typeLabel="SimpleName" pos="3027" length="4"></tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="3039" length="125">
+        <tree type="29" typeLabel="Javadoc" pos="3039" length="69">
+          <tree type="65" typeLabel="TagElement" pos="3050" length="50">
+            <tree type="66" label="Assigns the root directory for a prospective item." typeLabel="TextElement" pos="3050" length="50"></tree>
+          </tree>
+        </tree>
+        <tree type="83" label="protected" typeLabel="Modifier" pos="3113" length="9"></tree>
+        <tree type="83" label="abstract" typeLabel="Modifier" pos="3123" length="8"></tree>
+        <tree type="43" label="File" typeLabel="SimpleType" pos="3132" length="4">
+          <tree type="42" label="File" typeLabel="SimpleName" pos="3132" length="4"></tree>
+        </tree>
+        <tree type="42" label="getRootDirFor" typeLabel="SimpleName" pos="3137" length="13"></tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="3151" length="11">
+          <tree type="43" label="String" typeLabel="SimpleType" pos="3151" length="6">
+            <tree type="42" label="String" typeLabel="SimpleName" pos="3151" length="6"></tree>
+          </tree>
+          <tree type="42" label="name" typeLabel="SimpleName" pos="3158" length="4"></tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="3225" length="1620">
+        <tree type="29" typeLabel="Javadoc" pos="3225" length="158">
+          <tree type="65" typeLabel="TagElement" pos="3236" length="34">
+            <tree type="66" label="Loads all the child " typeLabel="TextElement" pos="3236" length="20"></tree>
+            <tree type="65" label="@link" typeLabel="TagElement" pos="3256" length="12">
+              <tree type="42" label="Item" typeLabel="SimpleName" pos="3263" length="4"></tree>
+            </tree>
+            <tree type="66" label="s." typeLabel="TextElement" pos="3268" length="2"></tree>
+          </tree>
+          <tree type="65" label="@param" typeLabel="TagElement" pos="3285" length="90">
+            <tree type="42" label="modulesDir" typeLabel="SimpleName" pos="3292" length="10"></tree>
+            <tree type="66" label="Directory that contains sub-directories for each child item." typeLabel="TextElement" pos="3315" length="60"></tree>
+          </tree>
+        </tree>
+        <tree type="83" label="public" typeLabel="Modifier" pos="3388" length="6"></tree>
+        <tree type="83" label="static" typeLabel="Modifier" pos="3395" length="6"></tree>
+        <tree type="73" typeLabel="TypeParameter" pos="3403" length="1">
+          <tree type="42" label="K" typeLabel="SimpleName" pos="3403" length="1"></tree>
+        </tree>
+        <tree type="73" typeLabel="TypeParameter" pos="3405" length="14">
+          <tree type="42" label="V" typeLabel="SimpleName" pos="3405" length="1"></tree>
+          <tree type="43" label="Item" typeLabel="SimpleType" pos="3415" length="4">
+            <tree type="42" label="Item" typeLabel="SimpleName" pos="3415" length="4"></tree>
+          </tree>
+        </tree>
+        <tree type="74" label="Map&lt;K,V&gt;" typeLabel="ParameterizedType" pos="3421" length="8">
+          <tree type="43" label="Map" typeLabel="SimpleType" pos="3421" length="3">
+            <tree type="42" label="Map" typeLabel="SimpleName" pos="3421" length="3"></tree>
+          </tree>
+          <tree type="43" label="K" typeLabel="SimpleType" pos="3425" length="1">
+            <tree type="42" label="K" typeLabel="SimpleName" pos="3425" length="1"></tree>
+          </tree>
+          <tree type="43" label="V" typeLabel="SimpleType" pos="3427" length="1">
+            <tree type="42" label="V" typeLabel="SimpleName" pos="3427" length="1"></tree>
+          </tree>
+        </tree>
+        <tree type="42" label="loadChildren" typeLabel="SimpleName" pos="3430" length="12"></tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="3443" length="16">
+          <tree type="43" label="ItemGroup" typeLabel="SimpleType" pos="3443" length="9">
+            <tree type="42" label="ItemGroup" typeLabel="SimpleName" pos="3443" length="9"></tree>
+          </tree>
+          <tree type="42" label="parent" typeLabel="SimpleName" pos="3453" length="6"></tree>
+        </tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="3461" length="15">
+          <tree type="43" label="File" typeLabel="SimpleType" pos="3461" length="4">
+            <tree type="42" label="File" typeLabel="SimpleName" pos="3461" length="4"></tree>
+          </tree>
+          <tree type="42" label="modulesDir" typeLabel="SimpleName" pos="3466" length="10"></tree>
+        </tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="3478" length="36">
+          <tree type="74" label="Function1&lt;? extends K,? super V&gt;" typeLabel="ParameterizedType" pos="3478" length="32">
+            <tree type="43" label="Function1" typeLabel="SimpleType" pos="3478" length="9">
+              <tree type="42" label="Function1" typeLabel="SimpleName" pos="3478" length="9"></tree>
+            </tree>
+            <tree type="76" label="? extends K" typeLabel="WildcardType" pos="3488" length="11">
+              <tree type="43" label="K" typeLabel="SimpleType" pos="3498" length="1">
+                <tree type="42" label="K" typeLabel="SimpleName" pos="3498" length="1"></tree>
+              </tree>
+            </tree>
+            <tree type="76" label="? super V" typeLabel="WildcardType" pos="3500" length="9">
+              <tree type="43" label="V" typeLabel="SimpleType" pos="3508" length="1">
+                <tree type="42" label="V" typeLabel="SimpleName" pos="3508" length="1"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="42" label="key" typeLabel="SimpleName" pos="3511" length="3"></tree>
+        </tree>
+        <tree type="8" typeLabel="Block" pos="3516" length="1329">
+          <tree type="21" typeLabel="ExpressionStatement" pos="3526" length="20">
+            <tree type="32" typeLabel="MethodInvocation" pos="3526" length="19">
+              <tree type="42" label="modulesDir" typeLabel="SimpleName" pos="3526" length="10"></tree>
+              <tree type="42" label="mkdirs" typeLabel="SimpleName" pos="3537" length="6"></tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="3579" length="174">
+            <tree type="5" label="File[]" typeLabel="ArrayType" pos="3579" length="6">
+              <tree type="43" label="File" typeLabel="SimpleType" pos="3579" length="4">
+                <tree type="42" label="File" typeLabel="SimpleName" pos="3579" length="4"></tree>
+              </tree>
+              <tree type="85" typeLabel="Dimension" pos="3583" length="2"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="3586" length="166">
+              <tree type="42" label="subdirs" typeLabel="SimpleName" pos="3586" length="7"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="3596" length="156">
+                <tree type="42" label="modulesDir" typeLabel="SimpleName" pos="3596" length="10"></tree>
+                <tree type="42" label="listFiles" typeLabel="SimpleName" pos="3607" length="9"></tree>
+                <tree type="14" typeLabel="ClassInstanceCreation" pos="3617" length="134">
+                  <tree type="43" label="FileFilter" typeLabel="SimpleType" pos="3621" length="10">
+                    <tree type="42" label="FileFilter" typeLabel="SimpleName" pos="3621" length="10"></tree>
+                  </tree>
+                  <tree type="1" typeLabel="AnonymousClassDeclaration" pos="3634" length="117">
+                    <tree type="31" typeLabel="MethodDeclaration" pos="3648" length="93">
+                      <tree type="83" label="public" typeLabel="Modifier" pos="3648" length="6"></tree>
+                      <tree type="39" label="boolean" typeLabel="PrimitiveType" pos="3655" length="7"></tree>
+                      <tree type="42" label="accept" typeLabel="SimpleName" pos="3663" length="6"></tree>
+                      <tree type="44" typeLabel="SingleVariableDeclaration" pos="3670" length="10">
+                        <tree type="43" label="File" typeLabel="SimpleType" pos="3670" length="4">
+                          <tree type="42" label="File" typeLabel="SimpleName" pos="3670" length="4"></tree>
+                        </tree>
+                        <tree type="42" label="child" typeLabel="SimpleName" pos="3675" length="5"></tree>
+                      </tree>
+                      <tree type="8" typeLabel="Block" pos="3682" length="59">
+                        <tree type="41" typeLabel="ReturnStatement" pos="3700" length="27">
+                          <tree type="32" typeLabel="MethodInvocation" pos="3707" length="19">
+                            <tree type="42" label="child" typeLabel="SimpleName" pos="3707" length="5"></tree>
+                            <tree type="42" label="isDirectory" typeLabel="SimpleName" pos="3713" length="11"></tree>
+                          </tree>
+                        </tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="3762" length="73">
+            <tree type="74" label="CopyOnWriteMap.Tree&lt;K,V&gt;" typeLabel="ParameterizedType" pos="3762" length="24">
+              <tree type="43" label="CopyOnWriteMap.Tree" typeLabel="SimpleType" pos="3762" length="19">
+                <tree type="40" label="CopyOnWriteMap.Tree" typeLabel="QualifiedName" pos="3762" length="19"></tree>
+              </tree>
+              <tree type="43" label="K" typeLabel="SimpleType" pos="3782" length="1">
+                <tree type="42" label="K" typeLabel="SimpleName" pos="3782" length="1"></tree>
+              </tree>
+              <tree type="43" label="V" typeLabel="SimpleType" pos="3784" length="1">
+                <tree type="42" label="V" typeLabel="SimpleName" pos="3784" length="1"></tree>
+              </tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="3787" length="47">
+              <tree type="42" label="configurations" typeLabel="SimpleName" pos="3787" length="14"></tree>
+              <tree type="14" typeLabel="ClassInstanceCreation" pos="3804" length="30">
+                <tree type="74" label="CopyOnWriteMap.Tree&lt;K,V&gt;" typeLabel="ParameterizedType" pos="3808" length="24">
+                  <tree type="43" label="CopyOnWriteMap.Tree" typeLabel="SimpleType" pos="3808" length="19">
+                    <tree type="40" label="CopyOnWriteMap.Tree" typeLabel="QualifiedName" pos="3808" length="19"></tree>
+                  </tree>
+                  <tree type="43" label="K" typeLabel="SimpleType" pos="3828" length="1">
+                    <tree type="42" label="K" typeLabel="SimpleName" pos="3828" length="1"></tree>
+                  </tree>
+                  <tree type="43" label="V" typeLabel="SimpleType" pos="3830" length="1">
+                    <tree type="42" label="V" typeLabel="SimpleName" pos="3830" length="1"></tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="70" typeLabel="EnhancedForStatement" pos="3844" length="963">
+            <tree type="44" typeLabel="SingleVariableDeclaration" pos="3849" length="11">
+              <tree type="43" label="File" typeLabel="SimpleType" pos="3849" length="4">
+                <tree type="42" label="File" typeLabel="SimpleName" pos="3849" length="4"></tree>
+              </tree>
+              <tree type="42" label="subdir" typeLabel="SimpleName" pos="3854" length="6"></tree>
+            </tree>
+            <tree type="42" label="subdirs" typeLabel="SimpleName" pos="3863" length="7"></tree>
+            <tree type="8" typeLabel="Block" pos="3872" length="935">
+              <tree type="54" typeLabel="TryStatement" pos="3886" length="911">
+                <tree type="8" typeLabel="Block" pos="3890" length="755">
+                  <tree type="60" typeLabel="VariableDeclarationStatement" pos="3993" length="46">
+                    <tree type="43" label="V" typeLabel="SimpleType" pos="3993" length="1">
+                      <tree type="42" label="V" typeLabel="SimpleName" pos="3993" length="1"></tree>
+                    </tree>
+                    <tree type="59" typeLabel="VariableDeclarationFragment" pos="3995" length="43">
+                      <tree type="42" label="item" typeLabel="SimpleName" pos="3995" length="4"></tree>
+                      <tree type="11" typeLabel="CastExpression" pos="4002" length="36">
+                        <tree type="43" label="V" typeLabel="SimpleType" pos="4003" length="1">
+                          <tree type="42" label="V" typeLabel="SimpleName" pos="4003" length="1"></tree>
+                        </tree>
+                        <tree type="32" typeLabel="MethodInvocation" pos="4006" length="32">
+                          <tree type="42" label="parent" typeLabel="SimpleName" pos="4006" length="6"></tree>
+                          <tree type="42" label="getItem" typeLabel="SimpleName" pos="4013" length="7"></tree>
+                          <tree type="32" typeLabel="MethodInvocation" pos="4021" length="16">
+                            <tree type="42" label="subdir" typeLabel="SimpleName" pos="4021" length="6"></tree>
+                            <tree type="42" label="getName" typeLabel="SimpleName" pos="4028" length="7"></tree>
+                          </tree>
+                        </tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                  <tree type="25" typeLabel="IfStatement" pos="4056" length="517">
+                    <tree type="27" label="==" typeLabel="InfixExpression" pos="4060" length="12">
+                      <tree type="42" label="item" typeLabel="SimpleName" pos="4060" length="4"></tree>
+                      <tree type="33" typeLabel="NullLiteral" pos="4068" length="4"></tree>
+                    </tree>
+                    <tree type="8" typeLabel="Block" pos="4074" length="415">
+                      <tree type="60" typeLabel="VariableDeclarationStatement" pos="4096" length="46">
+                        <tree type="43" label="XmlFile" typeLabel="SimpleType" pos="4096" length="7">
+                          <tree type="42" label="XmlFile" typeLabel="SimpleName" pos="4096" length="7"></tree>
+                        </tree>
+                        <tree type="59" typeLabel="VariableDeclarationFragment" pos="4104" length="37">
+                          <tree type="42" label="xmlFile" typeLabel="SimpleName" pos="4104" length="7"></tree>
+                          <tree type="32" typeLabel="MethodInvocation" pos="4114" length="27">
+                            <tree type="42" label="Items" typeLabel="SimpleName" pos="4114" length="5"></tree>
+                            <tree type="42" label="getConfigFile" typeLabel="SimpleName" pos="4120" length="13"></tree>
+                            <tree type="42" label="subdir" typeLabel="SimpleName" pos="4134" length="6"></tree>
+                          </tree>
+                        </tree>
+                      </tree>
+                      <tree type="25" typeLabel="IfStatement" pos="4163" length="308">
+                        <tree type="32" typeLabel="MethodInvocation" pos="4167" length="16">
+                          <tree type="42" label="xmlFile" typeLabel="SimpleName" pos="4167" length="7"></tree>
+                          <tree type="42" label="exists" typeLabel="SimpleName" pos="4175" length="6"></tree>
+                        </tree>
+                        <tree type="8" typeLabel="Block" pos="4185" length="86">
+                          <tree type="21" typeLabel="ExpressionStatement" pos="4211" length="38">
+                            <tree type="7" label="=" typeLabel="Assignment" pos="4211" length="37">
+                              <tree type="42" label="item" typeLabel="SimpleName" pos="4211" length="4"></tree>
+                              <tree type="11" typeLabel="CastExpression" pos="4218" length="30">
+                                <tree type="43" label="V" typeLabel="SimpleType" pos="4219" length="1">
+                                  <tree type="42" label="V" typeLabel="SimpleName" pos="4219" length="1"></tree>
+                                </tree>
+                                <tree type="32" typeLabel="MethodInvocation" pos="4222" length="26">
+                                  <tree type="42" label="Items" typeLabel="SimpleName" pos="4222" length="5"></tree>
+                                  <tree type="42" label="load" typeLabel="SimpleName" pos="4228" length="4"></tree>
+                                  <tree type="42" label="parent" typeLabel="SimpleName" pos="4233" length="6"></tree>
+                                  <tree type="42" label="subdir" typeLabel="SimpleName" pos="4241" length="6"></tree>
+                                </tree>
+                              </tree>
+                            </tree>
+                          </tree>
+                        </tree>
+                        <tree type="8" typeLabel="Block" pos="4277" length="194">
+                          <tree type="21" typeLabel="ExpressionStatement" pos="4303" length="112">
+                            <tree type="32" typeLabel="MethodInvocation" pos="4303" length="111">
+                              <tree type="32" typeLabel="MethodInvocation" pos="4303" length="48">
+                                <tree type="42" label="Logger" typeLabel="SimpleName" pos="4303" length="6"></tree>
+                                <tree type="42" label="getLogger" typeLabel="SimpleName" pos="4310" length="9"></tree>
+                                <tree type="32" typeLabel="MethodInvocation" pos="4320" length="30">
+                                  <tree type="57" typeLabel="TypeLiteral" pos="4320" length="20">
+                                    <tree type="43" label="ItemGroupMixIn" typeLabel="SimpleType" pos="4320" length="14">
+                                      <tree type="42" label="ItemGroupMixIn" typeLabel="SimpleName" pos="4320" length="14"></tree>
+                                    </tree>
+                                  </tree>
+                                  <tree type="42" label="getName" typeLabel="SimpleName" pos="4341" length="7"></tree>
+                                </tree>
+                              </tree>
+                              <tree type="42" label="log" typeLabel="SimpleName" pos="4352" length="3"></tree>
+                              <tree type="40" label="Level.WARNING" typeLabel="QualifiedName" pos="4356" length="13"></tree>
+                              <tree type="27" label="+" typeLabel="InfixExpression" pos="4371" length="42">
+                                <tree type="45" label="&quot;could not find file &quot;" typeLabel="StringLiteral" pos="4371" length="22"></tree>
+                                <tree type="32" typeLabel="MethodInvocation" pos="4396" length="17">
+                                  <tree type="42" label="xmlFile" typeLabel="SimpleName" pos="4396" length="7"></tree>
+                                  <tree type="42" label="getFile" typeLabel="SimpleName" pos="4404" length="7"></tree>
+                                </tree>
+                              </tree>
+                            </tree>
+                          </tree>
+                          <tree type="18" typeLabel="ContinueStatement" pos="4440" length="9"></tree>
+                        </tree>
+                      </tree>
+                    </tree>
+                    <tree type="8" typeLabel="Block" pos="4495" length="78">
+                      <tree type="21" typeLabel="ExpressionStatement" pos="4517" length="38">
+                        <tree type="32" typeLabel="MethodInvocation" pos="4517" length="37">
+                          <tree type="42" label="item" typeLabel="SimpleName" pos="4517" length="4"></tree>
+                          <tree type="42" label="onLoad" typeLabel="SimpleName" pos="4522" length="6"></tree>
+                          <tree type="42" label="parent" typeLabel="SimpleName" pos="4529" length="6"></tree>
+                          <tree type="32" typeLabel="MethodInvocation" pos="4537" length="16">
+                            <tree type="42" label="subdir" typeLabel="SimpleName" pos="4537" length="6"></tree>
+                            <tree type="42" label="getName" typeLabel="SimpleName" pos="4544" length="7"></tree>
+                          </tree>
+                        </tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                  <tree type="21" typeLabel="ExpressionStatement" pos="4590" length="41">
+                    <tree type="32" typeLabel="MethodInvocation" pos="4590" length="40">
+                      <tree type="42" label="configurations" typeLabel="SimpleName" pos="4590" length="14"></tree>
+                      <tree type="42" label="put" typeLabel="SimpleName" pos="4605" length="3"></tree>
+                      <tree type="32" typeLabel="MethodInvocation" pos="4609" length="14">
+                        <tree type="42" label="key" typeLabel="SimpleName" pos="4609" length="3"></tree>
+                        <tree type="42" label="call" typeLabel="SimpleName" pos="4613" length="4"></tree>
+                        <tree type="42" label="item" typeLabel="SimpleName" pos="4618" length="4"></tree>
+                      </tree>
+                      <tree type="42" label="item" typeLabel="SimpleName" pos="4625" length="4"></tree>
+                    </tree>
+                  </tree>
+                </tree>
+                <tree type="12" typeLabel="CatchClause" pos="4646" length="151">
+                  <tree type="44" typeLabel="SingleVariableDeclaration" pos="4653" length="11">
+                    <tree type="43" label="Exception" typeLabel="SimpleType" pos="4653" length="9">
+                      <tree type="42" label="Exception" typeLabel="SimpleName" pos="4653" length="9"></tree>
+                    </tree>
+                    <tree type="42" label="e" typeLabel="SimpleName" pos="4663" length="1"></tree>
+                  </tree>
+                  <tree type="8" typeLabel="Block" pos="4666" length="131">
+                    <tree type="21" typeLabel="ExpressionStatement" pos="4684" length="99">
+                      <tree type="32" typeLabel="MethodInvocation" pos="4684" length="98">
+                        <tree type="32" typeLabel="MethodInvocation" pos="4684" length="48">
+                          <tree type="42" label="Logger" typeLabel="SimpleName" pos="4684" length="6"></tree>
+                          <tree type="42" label="getLogger" typeLabel="SimpleName" pos="4691" length="9"></tree>
+                          <tree type="32" typeLabel="MethodInvocation" pos="4701" length="30">
+                            <tree type="57" typeLabel="TypeLiteral" pos="4701" length="20">
+                              <tree type="43" label="ItemGroupMixIn" typeLabel="SimpleType" pos="4701" length="14">
+                                <tree type="42" label="ItemGroupMixIn" typeLabel="SimpleName" pos="4701" length="14"></tree>
+                              </tree>
+                            </tree>
+                            <tree type="42" label="getName" typeLabel="SimpleName" pos="4722" length="7"></tree>
+                          </tree>
+                        </tree>
+                        <tree type="42" label="log" typeLabel="SimpleName" pos="4733" length="3"></tree>
+                        <tree type="40" label="Level.WARNING" typeLabel="QualifiedName" pos="4737" length="13"></tree>
+                        <tree type="27" label="+" typeLabel="InfixExpression" pos="4752" length="26">
+                          <tree type="45" label="&quot;could not load &quot;" typeLabel="StringLiteral" pos="4752" length="17"></tree>
+                          <tree type="42" label="subdir" typeLabel="SimpleName" pos="4772" length="6"></tree>
+                        </tree>
+                        <tree type="42" label="e" typeLabel="SimpleName" pos="4780" length="1"></tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="41" typeLabel="ReturnStatement" pos="4817" length="22">
+            <tree type="42" label="configurations" typeLabel="SimpleName" pos="4824" length="14"></tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="23" typeLabel="FieldDeclaration" pos="4851" length="235">
+        <tree type="29" typeLabel="Javadoc" pos="4851" length="48">
+          <tree type="65" typeLabel="TagElement" pos="4862" length="29">
+            <tree type="65" label="@link" typeLabel="TagElement" pos="4862" length="12">
+              <tree type="42" label="Item" typeLabel="SimpleName" pos="4869" length="4"></tree>
+            </tree>
+            <tree type="66" label=" → name function." typeLabel="TextElement" pos="4874" length="17"></tree>
+          </tree>
+        </tree>
+        <tree type="83" label="public" typeLabel="Modifier" pos="4904" length="6"></tree>
+        <tree type="83" label="static" typeLabel="Modifier" pos="4911" length="6"></tree>
+        <tree type="83" label="final" typeLabel="Modifier" pos="4918" length="5"></tree>
+        <tree type="74" label="Function1&lt;String,Item&gt;" typeLabel="ParameterizedType" pos="4924" length="22">
+          <tree type="43" label="Function1" typeLabel="SimpleType" pos="4924" length="9">
+            <tree type="42" label="Function1" typeLabel="SimpleName" pos="4924" length="9"></tree>
+          </tree>
+          <tree type="43" label="String" typeLabel="SimpleType" pos="4934" length="6">
+            <tree type="42" label="String" typeLabel="SimpleName" pos="4934" length="6"></tree>
+          </tree>
+          <tree type="43" label="Item" typeLabel="SimpleType" pos="4941" length="4">
+            <tree type="42" label="Item" typeLabel="SimpleName" pos="4941" length="4"></tree>
+          </tree>
+        </tree>
+        <tree type="59" typeLabel="VariableDeclarationFragment" pos="4947" length="138">
+          <tree type="42" label="KEYED_BY_NAME" typeLabel="SimpleName" pos="4947" length="13"></tree>
+          <tree type="14" typeLabel="ClassInstanceCreation" pos="4963" length="122">
+            <tree type="74" label="Function1&lt;String,Item&gt;" typeLabel="ParameterizedType" pos="4967" length="23">
+              <tree type="43" label="Function1" typeLabel="SimpleType" pos="4967" length="9">
+                <tree type="42" label="Function1" typeLabel="SimpleName" pos="4967" length="9"></tree>
+              </tree>
+              <tree type="43" label="String" typeLabel="SimpleType" pos="4977" length="6">
+                <tree type="42" label="String" typeLabel="SimpleName" pos="4977" length="6"></tree>
+              </tree>
+              <tree type="43" label="Item" typeLabel="SimpleType" pos="4985" length="4">
+                <tree type="42" label="Item" typeLabel="SimpleName" pos="4985" length="4"></tree>
+              </tree>
+            </tree>
+            <tree type="1" typeLabel="AnonymousClassDeclaration" pos="4993" length="92">
+              <tree type="31" typeLabel="MethodDeclaration" pos="5003" length="76">
+                <tree type="83" label="public" typeLabel="Modifier" pos="5003" length="6"></tree>
+                <tree type="43" label="String" typeLabel="SimpleType" pos="5010" length="6">
+                  <tree type="42" label="String" typeLabel="SimpleName" pos="5010" length="6"></tree>
+                </tree>
+                <tree type="42" label="call" typeLabel="SimpleName" pos="5017" length="4"></tree>
+                <tree type="44" typeLabel="SingleVariableDeclaration" pos="5022" length="9">
+                  <tree type="43" label="Item" typeLabel="SimpleType" pos="5022" length="4">
+                    <tree type="42" label="Item" typeLabel="SimpleName" pos="5022" length="4"></tree>
+                  </tree>
+                  <tree type="42" label="item" typeLabel="SimpleName" pos="5027" length="4"></tree>
+                </tree>
+                <tree type="8" typeLabel="Block" pos="5033" length="46">
+                  <tree type="41" typeLabel="ReturnStatement" pos="5047" length="22">
+                    <tree type="32" typeLabel="MethodInvocation" pos="5054" length="14">
+                      <tree type="42" label="item" typeLabel="SimpleName" pos="5054" length="4"></tree>
+                      <tree type="42" label="getName" typeLabel="SimpleName" pos="5059" length="7"></tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="5092" length="2766">
+        <tree type="29" typeLabel="Javadoc" pos="5092" length="172">
+          <tree type="65" typeLabel="TagElement" pos="5103" length="153">
+            <tree type="66" label="Creates a " typeLabel="TextElement" pos="5103" length="10"></tree>
+            <tree type="65" label="@link" typeLabel="TagElement" pos="5113" length="20">
+              <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="5120" length="12"></tree>
+            </tree>
+            <tree type="66" label=" for example from the submission of the " typeLabel="TextElement" pos="5133" length="40"></tree>
+            <tree type="65" label="@code" typeLabel="TagElement" pos="5173" length="36">
+              <tree type="66" label=" /lib/hudson/newFromList/form" typeLabel="TextElement" pos="5179" length="29"></tree>
+            </tree>
+            <tree type="66" label=" tag" typeLabel="TextElement" pos="5209" length="4"></tree>
+            <tree type="66" label="or throws an exception if it fails." typeLabel="TextElement" pos="5221" length="35"></tree>
+          </tree>
+        </tree>
+        <tree type="83" label="public" typeLabel="Modifier" pos="5269" length="6"></tree>
+        <tree type="83" label="synchronized" typeLabel="Modifier" pos="5276" length="12"></tree>
+        <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="5289" length="12">
+          <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="5289" length="12"></tree>
+        </tree>
+        <tree type="42" label="createTopLevelItem" typeLabel="SimpleName" pos="5302" length="18"></tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="5322" length="18">
+          <tree type="43" label="StaplerRequest" typeLabel="SimpleType" pos="5322" length="14">
+            <tree type="42" label="StaplerRequest" typeLabel="SimpleName" pos="5322" length="14"></tree>
+          </tree>
+          <tree type="42" label="req" typeLabel="SimpleName" pos="5337" length="3"></tree>
+        </tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="5342" length="19">
+          <tree type="43" label="StaplerResponse" typeLabel="SimpleType" pos="5342" length="15">
+            <tree type="42" label="StaplerResponse" typeLabel="SimpleName" pos="5342" length="15"></tree>
+          </tree>
+          <tree type="42" label="rsp" typeLabel="SimpleName" pos="5358" length="3"></tree>
+        </tree>
+        <tree type="43" label="IOException" typeLabel="SimpleType" pos="5371" length="11">
+          <tree type="42" label="IOException" typeLabel="SimpleName" pos="5371" length="11"></tree>
+        </tree>
+        <tree type="43" label="ServletException" typeLabel="SimpleType" pos="5384" length="16">
+          <tree type="42" label="ServletException" typeLabel="SimpleName" pos="5384" length="16"></tree>
+        </tree>
+        <tree type="8" typeLabel="Block" pos="5401" length="2457">
+          <tree type="21" typeLabel="ExpressionStatement" pos="5411" length="33">
+            <tree type="32" typeLabel="MethodInvocation" pos="5411" length="32">
+              <tree type="42" label="acl" typeLabel="SimpleName" pos="5411" length="3"></tree>
+              <tree type="42" label="checkPermission" typeLabel="SimpleName" pos="5415" length="15"></tree>
+              <tree type="40" label="Item.CREATE" typeLabel="QualifiedName" pos="5431" length="11"></tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="5454" length="20">
+            <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="5454" length="12">
+              <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="5454" length="12"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="5467" length="6">
+              <tree type="42" label="result" typeLabel="SimpleName" pos="5467" length="6"></tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="5484" length="49">
+            <tree type="43" label="String" typeLabel="SimpleType" pos="5484" length="6">
+              <tree type="42" label="String" typeLabel="SimpleName" pos="5484" length="6"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="5491" length="41">
+              <tree type="42" label="requestContentType" typeLabel="SimpleName" pos="5491" length="18"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="5512" length="20">
+                <tree type="42" label="req" typeLabel="SimpleName" pos="5512" length="3"></tree>
+                <tree type="42" label="getContentType" typeLabel="SimpleName" pos="5516" length="14"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="5542" length="39">
+            <tree type="43" label="String" typeLabel="SimpleType" pos="5542" length="6">
+              <tree type="42" label="String" typeLabel="SimpleName" pos="5542" length="6"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="5549" length="31">
+              <tree type="42" label="mode" typeLabel="SimpleName" pos="5549" length="4"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="5556" length="24">
+                <tree type="42" label="req" typeLabel="SimpleName" pos="5556" length="3"></tree>
+                <tree type="42" label="getParameter" typeLabel="SimpleName" pos="5560" length="12"></tree>
+                <tree type="45" label="&quot;mode&quot;" typeLabel="StringLiteral" pos="5573" length="6"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="25" typeLabel="IfStatement" pos="5590" length="150">
+            <tree type="27" label="&amp;&amp;" typeLabel="InfixExpression" pos="5594" length="84">
+              <tree type="27" label="==" typeLabel="InfixExpression" pos="5594" length="26">
+                <tree type="42" label="requestContentType" typeLabel="SimpleName" pos="5594" length="18"></tree>
+                <tree type="33" typeLabel="NullLiteral" pos="5616" length="4"></tree>
+              </tree>
+              <tree type="38" label="!" typeLabel="PrefixExpression" pos="5640" length="38">
+                <tree type="36" typeLabel="ParenthesizedExpression" pos="5641" length="37">
+                  <tree type="27" label="&amp;&amp;" typeLabel="InfixExpression" pos="5642" length="35">
+                    <tree type="27" label="!=" typeLabel="InfixExpression" pos="5642" length="12">
+                      <tree type="42" label="mode" typeLabel="SimpleName" pos="5642" length="4"></tree>
+                      <tree type="33" typeLabel="NullLiteral" pos="5650" length="4"></tree>
+                    </tree>
+                    <tree type="32" typeLabel="MethodInvocation" pos="5658" length="19">
+                      <tree type="42" label="mode" typeLabel="SimpleName" pos="5658" length="4"></tree>
+                      <tree type="42" label="equals" typeLabel="SimpleName" pos="5663" length="6"></tree>
+                      <tree type="45" label="&quot;copy&quot;" typeLabel="StringLiteral" pos="5670" length="6"></tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+            <tree type="53" typeLabel="ThrowStatement" pos="5692" length="48">
+              <tree type="14" typeLabel="ClassInstanceCreation" pos="5698" length="41">
+                <tree type="43" label="Failure" typeLabel="SimpleType" pos="5702" length="7">
+                  <tree type="42" label="Failure" typeLabel="SimpleName" pos="5702" length="7"></tree>
+                </tree>
+                <tree type="45" label="&quot;No Content-Type header set&quot;" typeLabel="StringLiteral" pos="5710" length="28"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="5750" length="184">
+            <tree type="39" label="boolean" typeLabel="PrimitiveType" pos="5750" length="7"></tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="5758" length="175">
+              <tree type="42" label="isXmlSubmission" typeLabel="SimpleName" pos="5758" length="15"></tree>
+              <tree type="27" label="&amp;&amp;" typeLabel="InfixExpression" pos="5776" length="157">
+                <tree type="27" label="!=" typeLabel="InfixExpression" pos="5776" length="26">
+                  <tree type="42" label="requestContentType" typeLabel="SimpleName" pos="5776" length="18"></tree>
+                  <tree type="33" typeLabel="NullLiteral" pos="5798" length="4"></tree>
+                </tree>
+                <tree type="36" typeLabel="ParenthesizedExpression" pos="5818" length="115">
+                  <tree type="27" label="||" typeLabel="InfixExpression" pos="5819" length="113">
+                    <tree type="32" typeLabel="MethodInvocation" pos="5819" length="48">
+                      <tree type="42" label="requestContentType" typeLabel="SimpleName" pos="5819" length="18"></tree>
+                      <tree type="42" label="startsWith" typeLabel="SimpleName" pos="5838" length="10"></tree>
+                      <tree type="45" label="&quot;application/xml&quot;" typeLabel="StringLiteral" pos="5849" length="17"></tree>
+                    </tree>
+                    <tree type="32" typeLabel="MethodInvocation" pos="5891" length="41">
+                      <tree type="42" label="requestContentType" typeLabel="SimpleName" pos="5891" length="18"></tree>
+                      <tree type="42" label="startsWith" typeLabel="SimpleName" pos="5910" length="10"></tree>
+                      <tree type="45" label="&quot;text/xml&quot;" typeLabel="StringLiteral" pos="5921" length="10"></tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="5944" length="39">
+            <tree type="43" label="String" typeLabel="SimpleType" pos="5944" length="6">
+              <tree type="42" label="String" typeLabel="SimpleName" pos="5944" length="6"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="5951" length="31">
+              <tree type="42" label="name" typeLabel="SimpleName" pos="5951" length="4"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="5958" length="24">
+                <tree type="42" label="req" typeLabel="SimpleName" pos="5958" length="3"></tree>
+                <tree type="42" label="getParameter" typeLabel="SimpleName" pos="5962" length="12"></tree>
+                <tree type="45" label="&quot;name&quot;" typeLabel="StringLiteral" pos="5975" length="6"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="25" typeLabel="IfStatement" pos="5992" length="83">
+            <tree type="27" label="==" typeLabel="InfixExpression" pos="5995" length="10">
+              <tree type="42" label="name" typeLabel="SimpleName" pos="5995" length="4"></tree>
+              <tree type="33" typeLabel="NullLiteral" pos="6001" length="4"></tree>
+            </tree>
+            <tree type="53" typeLabel="ThrowStatement" pos="6019" length="56">
+              <tree type="14" typeLabel="ClassInstanceCreation" pos="6025" length="49">
+                <tree type="43" label="Failure" typeLabel="SimpleType" pos="6029" length="7">
+                  <tree type="42" label="Failure" typeLabel="SimpleName" pos="6029" length="7"></tree>
+                </tree>
+                <tree type="45" label="&quot;Query parameter 'name' is required&quot;" typeLabel="StringLiteral" pos="6037" length="36"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="8" typeLabel="Block" pos="6085" length="233">
+            <tree type="21" typeLabel="ExpressionStatement" pos="6130" length="28">
+              <tree type="32" typeLabel="MethodInvocation" pos="6130" length="27">
+                <tree type="42" label="Jenkins" typeLabel="SimpleName" pos="6130" length="7"></tree>
+                <tree type="42" label="checkGoodName" typeLabel="SimpleName" pos="6138" length="13"></tree>
+                <tree type="42" label="name" typeLabel="SimpleName" pos="6152" length="4"></tree>
+              </tree>
+            </tree>
+            <tree type="21" typeLabel="ExpressionStatement" pos="6171" length="19">
+              <tree type="7" label="=" typeLabel="Assignment" pos="6171" length="18">
+                <tree type="42" label="name" typeLabel="SimpleName" pos="6171" length="4"></tree>
+                <tree type="32" typeLabel="MethodInvocation" pos="6178" length="11">
+                  <tree type="42" label="name" typeLabel="SimpleName" pos="6178" length="4"></tree>
+                  <tree type="42" label="trim" typeLabel="SimpleName" pos="6183" length="4"></tree>
+                </tree>
+              </tree>
+            </tree>
+            <tree type="25" typeLabel="IfStatement" pos="6203" length="105">
+              <tree type="27" label="!=" typeLabel="InfixExpression" pos="6206" length="26">
+                <tree type="32" typeLabel="MethodInvocation" pos="6206" length="20">
+                  <tree type="42" label="parent" typeLabel="SimpleName" pos="6206" length="6"></tree>
+                  <tree type="42" label="getItem" typeLabel="SimpleName" pos="6213" length="7"></tree>
+                  <tree type="42" label="name" typeLabel="SimpleName" pos="6221" length="4"></tree>
+                </tree>
+                <tree type="33" typeLabel="NullLiteral" pos="6228" length="4"></tree>
+              </tree>
+              <tree type="53" typeLabel="ThrowStatement" pos="6250" length="58">
+                <tree type="14" typeLabel="ClassInstanceCreation" pos="6256" length="51">
+                  <tree type="43" label="Failure" typeLabel="SimpleType" pos="6260" length="7">
+                    <tree type="42" label="Failure" typeLabel="SimpleName" pos="6260" length="7"></tree>
+                  </tree>
+                  <tree type="32" typeLabel="MethodInvocation" pos="6268" length="38">
+                    <tree type="42" label="Messages" typeLabel="SimpleName" pos="6268" length="8"></tree>
+                    <tree type="42" label="Hudson_JobAlreadyExists" typeLabel="SimpleName" pos="6277" length="23"></tree>
+                    <tree type="42" label="name" typeLabel="SimpleName" pos="6301" length="4"></tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="25" typeLabel="IfStatement" pos="6328" length="1435">
+            <tree type="27" label="&amp;&amp;" typeLabel="InfixExpression" pos="6331" length="33">
+              <tree type="27" label="!=" typeLabel="InfixExpression" pos="6331" length="10">
+                <tree type="42" label="mode" typeLabel="SimpleName" pos="6331" length="4"></tree>
+                <tree type="33" typeLabel="NullLiteral" pos="6337" length="4"></tree>
+              </tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="6345" length="19">
+                <tree type="42" label="mode" typeLabel="SimpleName" pos="6345" length="4"></tree>
+                <tree type="42" label="equals" typeLabel="SimpleName" pos="6350" length="6"></tree>
+                <tree type="45" label="&quot;copy&quot;" typeLabel="StringLiteral" pos="6357" length="6"></tree>
+              </tree>
+            </tree>
+            <tree type="8" typeLabel="Block" pos="6366" length="570">
+              <tree type="60" typeLabel="VariableDeclarationStatement" pos="6380" length="39">
+                <tree type="43" label="String" typeLabel="SimpleType" pos="6380" length="6">
+                  <tree type="42" label="String" typeLabel="SimpleName" pos="6380" length="6"></tree>
+                </tree>
+                <tree type="59" typeLabel="VariableDeclarationFragment" pos="6387" length="31">
+                  <tree type="42" label="from" typeLabel="SimpleName" pos="6387" length="4"></tree>
+                  <tree type="32" typeLabel="MethodInvocation" pos="6394" length="24">
+                    <tree type="42" label="req" typeLabel="SimpleName" pos="6394" length="3"></tree>
+                    <tree type="42" label="getParameter" typeLabel="SimpleName" pos="6398" length="12"></tree>
+                    <tree type="45" label="&quot;from&quot;" typeLabel="StringLiteral" pos="6411" length="6"></tree>
+                  </tree>
+                </tree>
+              </tree>
+              <tree type="60" typeLabel="VariableDeclarationStatement" pos="6471" length="55">
+                <tree type="43" label="Item" typeLabel="SimpleType" pos="6471" length="4">
+                  <tree type="42" label="Item" typeLabel="SimpleName" pos="6471" length="4"></tree>
+                </tree>
+                <tree type="59" typeLabel="VariableDeclarationFragment" pos="6476" length="49">
+                  <tree type="42" label="src" typeLabel="SimpleName" pos="6476" length="3"></tree>
+                  <tree type="32" typeLabel="MethodInvocation" pos="6482" length="43">
+                    <tree type="32" typeLabel="MethodInvocation" pos="6482" length="21">
+                      <tree type="42" label="Jenkins" typeLabel="SimpleName" pos="6482" length="7"></tree>
+                      <tree type="42" label="getInstance" typeLabel="SimpleName" pos="6490" length="11"></tree>
+                    </tree>
+                    <tree type="42" label="getItem" typeLabel="SimpleName" pos="6504" length="7"></tree>
+                    <tree type="42" label="from" typeLabel="SimpleName" pos="6512" length="4"></tree>
+                    <tree type="42" label="parent" typeLabel="SimpleName" pos="6518" length="6"></tree>
+                  </tree>
+                </tree>
+              </tree>
+              <tree type="25" typeLabel="IfStatement" pos="6539" length="225">
+                <tree type="27" label="==" typeLabel="InfixExpression" pos="6542" length="9">
+                  <tree type="42" label="src" typeLabel="SimpleName" pos="6542" length="3"></tree>
+                  <tree type="33" typeLabel="NullLiteral" pos="6547" length="4"></tree>
+                </tree>
+                <tree type="8" typeLabel="Block" pos="6553" length="211">
+                  <tree type="25" typeLabel="IfStatement" pos="6571" length="179">
+                    <tree type="27" label="==" typeLabel="InfixExpression" pos="6574" length="25">
+                      <tree type="32" typeLabel="MethodInvocation" pos="6574" length="19">
+                        <tree type="42" label="Util" typeLabel="SimpleName" pos="6574" length="4"></tree>
+                        <tree type="42" label="fixEmpty" typeLabel="SimpleName" pos="6579" length="8"></tree>
+                        <tree type="42" label="from" typeLabel="SimpleName" pos="6588" length="4"></tree>
+                      </tree>
+                      <tree type="33" typeLabel="NullLiteral" pos="6595" length="4"></tree>
+                    </tree>
+                    <tree type="53" typeLabel="ThrowStatement" pos="6621" length="47">
+                      <tree type="14" typeLabel="ClassInstanceCreation" pos="6627" length="40">
+                        <tree type="43" label="Failure" typeLabel="SimpleType" pos="6631" length="7">
+                          <tree type="42" label="Failure" typeLabel="SimpleName" pos="6631" length="7"></tree>
+                        </tree>
+                        <tree type="45" label="&quot;Specify which job to copy&quot;" typeLabel="StringLiteral" pos="6639" length="27"></tree>
+                      </tree>
+                    </tree>
+                    <tree type="53" typeLabel="ThrowStatement" pos="6710" length="40">
+                      <tree type="14" typeLabel="ClassInstanceCreation" pos="6716" length="33">
+                        <tree type="43" label="Failure" typeLabel="SimpleType" pos="6720" length="7">
+                          <tree type="42" label="Failure" typeLabel="SimpleName" pos="6720" length="7"></tree>
+                        </tree>
+                        <tree type="27" label="+" typeLabel="InfixExpression" pos="6728" length="20">
+                          <tree type="45" label="&quot;No such job: &quot;" typeLabel="StringLiteral" pos="6728" length="15"></tree>
+                          <tree type="42" label="from" typeLabel="SimpleName" pos="6744" length="4"></tree>
+                        </tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+              <tree type="25" typeLabel="IfStatement" pos="6777" length="96">
+                <tree type="38" label="!" typeLabel="PrefixExpression" pos="6781" length="30">
+                  <tree type="36" typeLabel="ParenthesizedExpression" pos="6782" length="29">
+                    <tree type="62" typeLabel="InstanceofExpression" pos="6783" length="27">
+                      <tree type="42" label="src" typeLabel="SimpleName" pos="6783" length="3"></tree>
+                      <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="6798" length="12">
+                        <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="6798" length="12"></tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                </tree>
+                <tree type="53" typeLabel="ThrowStatement" pos="6829" length="44">
+                  <tree type="14" typeLabel="ClassInstanceCreation" pos="6835" length="37">
+                    <tree type="43" label="Failure" typeLabel="SimpleType" pos="6839" length="7">
+                      <tree type="42" label="Failure" typeLabel="SimpleName" pos="6839" length="7"></tree>
+                    </tree>
+                    <tree type="27" label="+" typeLabel="InfixExpression" pos="6847" length="24">
+                      <tree type="42" label="from" typeLabel="SimpleName" pos="6847" length="4"></tree>
+                      <tree type="45" label="&quot; cannot be copied&quot;" typeLabel="StringLiteral" pos="6852" length="19"></tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+              <tree type="21" typeLabel="ExpressionStatement" pos="6887" length="39">
+                <tree type="7" label="=" typeLabel="Assignment" pos="6887" length="38">
+                  <tree type="42" label="result" typeLabel="SimpleName" pos="6887" length="6"></tree>
+                  <tree type="32" typeLabel="MethodInvocation" pos="6896" length="29">
+                    <tree type="42" label="copy" typeLabel="SimpleName" pos="6896" length="4"></tree>
+                    <tree type="11" typeLabel="CastExpression" pos="6901" length="18">
+                      <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="6902" length="12">
+                        <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="6902" length="12"></tree>
+                      </tree>
+                      <tree type="42" label="src" typeLabel="SimpleName" pos="6916" length="3"></tree>
+                    </tree>
+                    <tree type="42" label="name" typeLabel="SimpleName" pos="6920" length="4"></tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+            <tree type="8" typeLabel="Block" pos="6942" length="821">
+              <tree type="25" typeLabel="IfStatement" pos="6956" length="797">
+                <tree type="42" label="isXmlSubmission" typeLabel="SimpleName" pos="6959" length="15"></tree>
+                <tree type="8" typeLabel="Block" pos="6976" length="179">
+                  <tree type="21" typeLabel="ExpressionStatement" pos="6994" length="58">
+                    <tree type="7" label="=" typeLabel="Assignment" pos="6994" length="57">
+                      <tree type="42" label="result" typeLabel="SimpleName" pos="6994" length="6"></tree>
+                      <tree type="32" typeLabel="MethodInvocation" pos="7003" length="48">
+                        <tree type="42" label="createProjectFromXML" typeLabel="SimpleName" pos="7003" length="20"></tree>
+                        <tree type="42" label="name" typeLabel="SimpleName" pos="7024" length="4"></tree>
+                        <tree type="32" typeLabel="MethodInvocation" pos="7030" length="20">
+                          <tree type="42" label="req" typeLabel="SimpleName" pos="7030" length="3"></tree>
+                          <tree type="42" label="getInputStream" typeLabel="SimpleName" pos="7034" length="14"></tree>
+                        </tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                  <tree type="21" typeLabel="ExpressionStatement" pos="7069" length="41">
+                    <tree type="32" typeLabel="MethodInvocation" pos="7069" length="40">
+                      <tree type="42" label="rsp" typeLabel="SimpleName" pos="7069" length="3"></tree>
+                      <tree type="42" label="setStatus" typeLabel="SimpleName" pos="7073" length="9"></tree>
+                      <tree type="40" label="HttpServletResponse.SC_OK" typeLabel="QualifiedName" pos="7083" length="25"></tree>
+                    </tree>
+                  </tree>
+                  <tree type="41" typeLabel="ReturnStatement" pos="7127" length="14">
+                    <tree type="42" label="result" typeLabel="SimpleName" pos="7134" length="6"></tree>
+                  </tree>
+                </tree>
+                <tree type="8" typeLabel="Block" pos="7161" length="592">
+                  <tree type="25" typeLabel="IfStatement" pos="7179" length="70">
+                    <tree type="27" label="==" typeLabel="InfixExpression" pos="7182" length="10">
+                      <tree type="42" label="mode" typeLabel="SimpleName" pos="7182" length="4"></tree>
+                      <tree type="33" typeLabel="NullLiteral" pos="7188" length="4"></tree>
+                    </tree>
+                    <tree type="53" typeLabel="ThrowStatement" pos="7214" length="35">
+                      <tree type="14" typeLabel="ClassInstanceCreation" pos="7220" length="28">
+                        <tree type="43" label="Failure" typeLabel="SimpleType" pos="7224" length="7">
+                          <tree type="42" label="Failure" typeLabel="SimpleName" pos="7224" length="7"></tree>
+                        </tree>
+                        <tree type="45" label="&quot;No mode given&quot;" typeLabel="StringLiteral" pos="7232" length="15"></tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                  <tree type="60" typeLabel="VariableDeclarationStatement" pos="7266" length="65">
+                    <tree type="43" label="TopLevelItemDescriptor" typeLabel="SimpleType" pos="7266" length="22">
+                      <tree type="42" label="TopLevelItemDescriptor" typeLabel="SimpleName" pos="7266" length="22"></tree>
+                    </tree>
+                    <tree type="59" typeLabel="VariableDeclarationFragment" pos="7289" length="41">
+                      <tree type="42" label="descriptor" typeLabel="SimpleName" pos="7289" length="10"></tree>
+                      <tree type="32" typeLabel="MethodInvocation" pos="7302" length="28">
+                        <tree type="32" typeLabel="MethodInvocation" pos="7302" length="11">
+                          <tree type="42" label="Items" typeLabel="SimpleName" pos="7302" length="5"></tree>
+                          <tree type="42" label="all" typeLabel="SimpleName" pos="7308" length="3"></tree>
+                        </tree>
+                        <tree type="42" label="findByName" typeLabel="SimpleName" pos="7314" length="10"></tree>
+                        <tree type="42" label="mode" typeLabel="SimpleName" pos="7325" length="4"></tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                  <tree type="25" typeLabel="IfStatement" pos="7348" length="122">
+                    <tree type="27" label="==" typeLabel="InfixExpression" pos="7352" length="18">
+                      <tree type="42" label="descriptor" typeLabel="SimpleName" pos="7352" length="10"></tree>
+                      <tree type="33" typeLabel="NullLiteral" pos="7366" length="4"></tree>
+                    </tree>
+                    <tree type="8" typeLabel="Block" pos="7372" length="98">
+                      <tree type="53" typeLabel="ThrowStatement" pos="7394" length="58">
+                        <tree type="14" typeLabel="ClassInstanceCreation" pos="7400" length="51">
+                          <tree type="43" label="Failure" typeLabel="SimpleType" pos="7404" length="7">
+                            <tree type="42" label="Failure" typeLabel="SimpleName" pos="7404" length="7"></tree>
+                          </tree>
+                          <tree type="27" label="+" typeLabel="InfixExpression" pos="7412" length="38">
+                            <tree type="45" label="&quot;No item type ‘&quot;" typeLabel="StringLiteral" pos="7412" length="16"></tree>
+                            <tree type="42" label="mode" typeLabel="SimpleName" pos="7431" length="4"></tree>
+                            <tree type="45" label="&quot;’ is known&quot;" typeLabel="StringLiteral" pos="7438" length="12"></tree>
+                          </tree>
+                        </tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                  <tree type="21" typeLabel="ExpressionStatement" pos="7487" length="37">
+                    <tree type="32" typeLabel="MethodInvocation" pos="7487" length="36">
+                      <tree type="42" label="descriptor" typeLabel="SimpleName" pos="7487" length="10"></tree>
+                      <tree type="42" label="checkApplicableIn" typeLabel="SimpleName" pos="7498" length="17"></tree>
+                      <tree type="42" label="parent" typeLabel="SimpleName" pos="7516" length="6"></tree>
+                    </tree>
+                  </tree>
+                  <tree type="21" typeLabel="ExpressionStatement" pos="7541" length="55">
+                    <tree type="32" typeLabel="MethodInvocation" pos="7541" length="54">
+                      <tree type="32" typeLabel="MethodInvocation" pos="7541" length="12">
+                        <tree type="42" label="acl" typeLabel="SimpleName" pos="7541" length="3"></tree>
+                        <tree type="42" label="getACL" typeLabel="SimpleName" pos="7545" length="6"></tree>
+                      </tree>
+                      <tree type="42" label="checkCreatePermission" typeLabel="SimpleName" pos="7554" length="21"></tree>
+                      <tree type="42" label="parent" typeLabel="SimpleName" pos="7576" length="6"></tree>
+                      <tree type="42" label="descriptor" typeLabel="SimpleName" pos="7584" length="10"></tree>
+                    </tree>
+                  </tree>
+                  <tree type="21" typeLabel="ExpressionStatement" pos="7692" length="47">
+                    <tree type="7" label="=" typeLabel="Assignment" pos="7692" length="46">
+                      <tree type="42" label="result" typeLabel="SimpleName" pos="7692" length="6"></tree>
+                      <tree type="32" typeLabel="MethodInvocation" pos="7701" length="37">
+                        <tree type="42" label="createProject" typeLabel="SimpleName" pos="7701" length="13"></tree>
+                        <tree type="42" label="descriptor" typeLabel="SimpleName" pos="7715" length="10"></tree>
+                        <tree type="42" label="name" typeLabel="SimpleName" pos="7727" length="4"></tree>
+                        <tree type="9" label="true" typeLabel="BooleanLiteral" pos="7733" length="4"></tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="7773" length="56">
+            <tree type="32" typeLabel="MethodInvocation" pos="7773" length="55">
+              <tree type="42" label="rsp" typeLabel="SimpleName" pos="7773" length="3"></tree>
+              <tree type="42" label="sendRedirect2" typeLabel="SimpleName" pos="7777" length="13"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="7791" length="36">
+                <tree type="42" label="redirectAfterCreateItem" typeLabel="SimpleName" pos="7791" length="23"></tree>
+                <tree type="42" label="req" typeLabel="SimpleName" pos="7815" length="3"></tree>
+                <tree type="42" label="result" typeLabel="SimpleName" pos="7820" length="6"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="41" typeLabel="ReturnStatement" pos="7838" length="14">
+            <tree type="42" label="result" typeLabel="SimpleName" pos="7845" length="6"></tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="7864" length="280">
+        <tree type="29" typeLabel="Javadoc" pos="7864" length="98">
+          <tree type="65" typeLabel="TagElement" pos="7875" length="79">
+            <tree type="66" label="Computes the redirection target URL for the newly created " typeLabel="TextElement" pos="7875" length="58"></tree>
+            <tree type="65" label="@link" typeLabel="TagElement" pos="7933" length="20">
+              <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="7940" length="12"></tree>
+            </tree>
+            <tree type="66" label="." typeLabel="TextElement" pos="7953" length="1"></tree>
+          </tree>
+        </tree>
+        <tree type="83" label="protected" typeLabel="Modifier" pos="7967" length="9"></tree>
+        <tree type="43" label="String" typeLabel="SimpleType" pos="7977" length="6">
+          <tree type="42" label="String" typeLabel="SimpleName" pos="7977" length="6"></tree>
+        </tree>
+        <tree type="42" label="redirectAfterCreateItem" typeLabel="SimpleName" pos="7984" length="23"></tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="8008" length="18">
+          <tree type="43" label="StaplerRequest" typeLabel="SimpleType" pos="8008" length="14">
+            <tree type="42" label="StaplerRequest" typeLabel="SimpleName" pos="8008" length="14"></tree>
+          </tree>
+          <tree type="42" label="req" typeLabel="SimpleName" pos="8023" length="3"></tree>
+        </tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="8028" length="19">
+          <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="8028" length="12">
+            <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="8028" length="12"></tree>
+          </tree>
+          <tree type="42" label="result" typeLabel="SimpleName" pos="8041" length="6"></tree>
+        </tree>
+        <tree type="43" label="IOException" typeLabel="SimpleType" pos="8056" length="11">
+          <tree type="42" label="IOException" typeLabel="SimpleName" pos="8056" length="11"></tree>
+        </tree>
+        <tree type="8" typeLabel="Block" pos="8068" length="76">
+          <tree type="41" typeLabel="ReturnStatement" pos="8078" length="60">
+            <tree type="27" label="+" typeLabel="InfixExpression" pos="8085" length="52">
+              <tree type="32" typeLabel="MethodInvocation" pos="8085" length="20">
+                <tree type="42" label="req" typeLabel="SimpleName" pos="8085" length="3"></tree>
+                <tree type="42" label="getContextPath" typeLabel="SimpleName" pos="8089" length="14"></tree>
+              </tree>
+              <tree type="13" label="'/'" typeLabel="CharacterLiteral" pos="8106" length="3"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="8110" length="15">
+                <tree type="42" label="result" typeLabel="SimpleName" pos="8110" length="6"></tree>
+                <tree type="42" label="getUrl" typeLabel="SimpleName" pos="8117" length="6"></tree>
+              </tree>
+              <tree type="45" label="&quot;configure&quot;" typeLabel="StringLiteral" pos="8126" length="11"></tree>
+            </tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="8150" length="2045">
+        <tree type="29" typeLabel="Javadoc" pos="8150" length="73">
+          <tree type="65" typeLabel="TagElement" pos="8161" length="54">
+            <tree type="66" label="Copies an existing " typeLabel="TextElement" pos="8161" length="19"></tree>
+            <tree type="65" label="@link" typeLabel="TagElement" pos="8180" length="20">
+              <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="8187" length="12"></tree>
+            </tree>
+            <tree type="66" label=" to a new name." typeLabel="TextElement" pos="8200" length="15"></tree>
+          </tree>
+        </tree>
+        <tree type="79" typeLabel="SingleMemberAnnotation" pos="8228" length="32">
+          <tree type="42" label="SuppressWarnings" typeLabel="SimpleName" pos="8229" length="16"></tree>
+          <tree type="4" typeLabel="ArrayInitializer" pos="8246" length="13">
+            <tree type="45" label="&quot;unchecked&quot;" typeLabel="StringLiteral" pos="8247" length="11"></tree>
+          </tree>
+        </tree>
+        <tree type="83" label="public" typeLabel="Modifier" pos="8265" length="6"></tree>
+        <tree type="83" label="synchronized" typeLabel="Modifier" pos="8272" length="12"></tree>
+        <tree type="73" typeLabel="TypeParameter" pos="8286" length="22">
+          <tree type="42" label="T" typeLabel="SimpleName" pos="8286" length="1"></tree>
+          <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="8296" length="12">
+            <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="8296" length="12"></tree>
+          </tree>
+        </tree>
+        <tree type="43" label="T" typeLabel="SimpleType" pos="8310" length="1">
+          <tree type="42" label="T" typeLabel="SimpleName" pos="8310" length="1"></tree>
+        </tree>
+        <tree type="42" label="copy" typeLabel="SimpleName" pos="8312" length="4"></tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="8317" length="5">
+          <tree type="43" label="T" typeLabel="SimpleType" pos="8317" length="1">
+            <tree type="42" label="T" typeLabel="SimpleName" pos="8317" length="1"></tree>
+          </tree>
+          <tree type="42" label="src" typeLabel="SimpleName" pos="8319" length="3"></tree>
+        </tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="8324" length="11">
+          <tree type="43" label="String" typeLabel="SimpleType" pos="8324" length="6">
+            <tree type="42" label="String" typeLabel="SimpleName" pos="8324" length="6"></tree>
+          </tree>
+          <tree type="42" label="name" typeLabel="SimpleName" pos="8331" length="4"></tree>
+        </tree>
+        <tree type="43" label="IOException" typeLabel="SimpleType" pos="8344" length="11">
+          <tree type="42" label="IOException" typeLabel="SimpleName" pos="8344" length="11"></tree>
+        </tree>
+        <tree type="8" typeLabel="Block" pos="8356" length="1839">
+          <tree type="21" typeLabel="ExpressionStatement" pos="8366" length="33">
+            <tree type="32" typeLabel="MethodInvocation" pos="8366" length="32">
+              <tree type="42" label="acl" typeLabel="SimpleName" pos="8366" length="3"></tree>
+              <tree type="42" label="checkPermission" typeLabel="SimpleName" pos="8370" length="15"></tree>
+              <tree type="40" label="Item.CREATE" typeLabel="QualifiedName" pos="8386" length="11"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="8408" length="40">
+            <tree type="32" typeLabel="MethodInvocation" pos="8408" length="39">
+              <tree type="42" label="src" typeLabel="SimpleName" pos="8408" length="3"></tree>
+              <tree type="42" label="checkPermission" typeLabel="SimpleName" pos="8412" length="15"></tree>
+              <tree type="40" label="Item.EXTENDED_READ" typeLabel="QualifiedName" pos="8428" length="18"></tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="8457" length="49">
+            <tree type="43" label="XmlFile" typeLabel="SimpleType" pos="8457" length="7">
+              <tree type="42" label="XmlFile" typeLabel="SimpleName" pos="8457" length="7"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="8465" length="40">
+              <tree type="42" label="srcConfigFile" typeLabel="SimpleName" pos="8465" length="13"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="8481" length="24">
+                <tree type="42" label="Items" typeLabel="SimpleName" pos="8481" length="5"></tree>
+                <tree type="42" label="getConfigFile" typeLabel="SimpleName" pos="8487" length="13"></tree>
+                <tree type="42" label="src" typeLabel="SimpleName" pos="8501" length="3"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="25" typeLabel="IfStatement" pos="8515" length="680">
+            <tree type="38" label="!" typeLabel="PrefixExpression" pos="8519" length="34">
+              <tree type="32" typeLabel="MethodInvocation" pos="8520" length="33">
+                <tree type="42" label="src" typeLabel="SimpleName" pos="8520" length="3"></tree>
+                <tree type="42" label="hasPermission" typeLabel="SimpleName" pos="8524" length="13"></tree>
+                <tree type="40" label="Item.CONFIGURE" typeLabel="QualifiedName" pos="8538" length="14"></tree>
+              </tree>
+            </tree>
+            <tree type="8" typeLabel="Block" pos="8555" length="640">
+              <tree type="60" typeLabel="VariableDeclarationStatement" pos="8569" length="80">
+                <tree type="43" label="Matcher" typeLabel="SimpleType" pos="8569" length="7">
+                  <tree type="42" label="Matcher" typeLabel="SimpleName" pos="8569" length="7"></tree>
+                </tree>
+                <tree type="59" typeLabel="VariableDeclarationFragment" pos="8577" length="71">
+                  <tree type="42" label="matcher" typeLabel="SimpleName" pos="8577" length="7"></tree>
+                  <tree type="32" typeLabel="MethodInvocation" pos="8587" length="61">
+                    <tree type="40" label="AbstractItem.SECRET_PATTERN" typeLabel="QualifiedName" pos="8587" length="27"></tree>
+                    <tree type="42" label="matcher" typeLabel="SimpleName" pos="8615" length="7"></tree>
+                    <tree type="32" typeLabel="MethodInvocation" pos="8623" length="24">
+                      <tree type="42" label="srcConfigFile" typeLabel="SimpleName" pos="8623" length="13"></tree>
+                      <tree type="42" label="asString" typeLabel="SimpleName" pos="8637" length="8"></tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+              <tree type="61" typeLabel="WhileStatement" pos="8662" length="523">
+                <tree type="32" typeLabel="MethodInvocation" pos="8669" length="14">
+                  <tree type="42" label="matcher" typeLabel="SimpleName" pos="8669" length="7"></tree>
+                  <tree type="42" label="find" typeLabel="SimpleName" pos="8677" length="4"></tree>
+                </tree>
+                <tree type="8" typeLabel="Block" pos="8685" length="500">
+                  <tree type="25" typeLabel="IfStatement" pos="8703" length="468">
+                    <tree type="27" label="!=" typeLabel="InfixExpression" pos="8707" length="40">
+                      <tree type="32" typeLabel="MethodInvocation" pos="8707" length="32">
+                        <tree type="42" label="Secret" typeLabel="SimpleName" pos="8707" length="6"></tree>
+                        <tree type="42" label="decrypt" typeLabel="SimpleName" pos="8714" length="7"></tree>
+                        <tree type="32" typeLabel="MethodInvocation" pos="8722" length="16">
+                          <tree type="42" label="matcher" typeLabel="SimpleName" pos="8722" length="7"></tree>
+                          <tree type="42" label="group" typeLabel="SimpleName" pos="8730" length="5"></tree>
+                          <tree type="34" label="1" typeLabel="NumberLiteral" pos="8736" length="1"></tree>
+                        </tree>
+                      </tree>
+                      <tree type="33" typeLabel="NullLiteral" pos="8743" length="4"></tree>
+                    </tree>
+                    <tree type="8" typeLabel="Block" pos="8749" length="422">
+                      <tree type="53" typeLabel="ThrowStatement" pos="8927" length="226">
+                        <tree type="14" typeLabel="ClassInstanceCreation" pos="8933" length="219">
+                          <tree type="43" label="AccessDeniedException" typeLabel="SimpleType" pos="8937" length="21">
+                            <tree type="42" label="AccessDeniedException" typeLabel="SimpleName" pos="8937" length="21"></tree>
+                          </tree>
+                          <tree type="32" typeLabel="MethodInvocation" pos="8959" length="192">
+                            <tree type="42" label="Messages" typeLabel="SimpleName" pos="8959" length="8"></tree>
+                            <tree type="42" label="ItemGroupMixIn_may_not_copy_as_it_contains_secrets_and_" typeLabel="SimpleName" pos="8968" length="55"></tree>
+                            <tree type="32" typeLabel="MethodInvocation" pos="9024" length="17">
+                              <tree type="42" label="src" typeLabel="SimpleName" pos="9024" length="3"></tree>
+                              <tree type="42" label="getFullName" typeLabel="SimpleName" pos="9028" length="11"></tree>
+                            </tree>
+                            <tree type="32" typeLabel="MethodInvocation" pos="9043" length="37">
+                              <tree type="32" typeLabel="MethodInvocation" pos="9043" length="27">
+                                <tree type="42" label="Jenkins" typeLabel="SimpleName" pos="9043" length="7"></tree>
+                                <tree type="42" label="getAuthentication" typeLabel="SimpleName" pos="9051" length="17"></tree>
+                              </tree>
+                              <tree type="42" label="getName" typeLabel="SimpleName" pos="9071" length="7"></tree>
+                            </tree>
+                            <tree type="40" label="Item.PERMISSIONS.title" typeLabel="QualifiedName" pos="9082" length="22"></tree>
+                            <tree type="40" label="Item.EXTENDED_READ.name" typeLabel="QualifiedName" pos="9106" length="23"></tree>
+                            <tree type="40" label="Item.CONFIGURE.name" typeLabel="QualifiedName" pos="9131" length="19"></tree>
+                          </tree>
+                        </tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="9204" length="46">
+            <tree type="32" typeLabel="MethodInvocation" pos="9204" length="45">
+              <tree type="32" typeLabel="MethodInvocation" pos="9204" length="19">
+                <tree type="42" label="src" typeLabel="SimpleName" pos="9204" length="3"></tree>
+                <tree type="42" label="getDescriptor" typeLabel="SimpleName" pos="9208" length="13"></tree>
+              </tree>
+              <tree type="42" label="checkApplicableIn" typeLabel="SimpleName" pos="9224" length="17"></tree>
+              <tree type="42" label="parent" typeLabel="SimpleName" pos="9242" length="6"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="9259" length="64">
+            <tree type="32" typeLabel="MethodInvocation" pos="9259" length="63">
+              <tree type="32" typeLabel="MethodInvocation" pos="9259" length="12">
+                <tree type="42" label="acl" typeLabel="SimpleName" pos="9259" length="3"></tree>
+                <tree type="42" label="getACL" typeLabel="SimpleName" pos="9263" length="6"></tree>
+              </tree>
+              <tree type="42" label="checkCreatePermission" typeLabel="SimpleName" pos="9272" length="21"></tree>
+              <tree type="42" label="parent" typeLabel="SimpleName" pos="9294" length="6"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="9302" length="19">
+                <tree type="42" label="src" typeLabel="SimpleName" pos="9302" length="3"></tree>
+                <tree type="42" label="getDescriptor" typeLabel="SimpleName" pos="9306" length="13"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="9332" length="42">
+            <tree type="32" typeLabel="MethodInvocation" pos="9332" length="41">
+              <tree type="42" label="ItemListener" typeLabel="SimpleName" pos="9332" length="12"></tree>
+              <tree type="42" label="checkBeforeCopy" typeLabel="SimpleName" pos="9345" length="15"></tree>
+              <tree type="42" label="src" typeLabel="SimpleName" pos="9361" length="3"></tree>
+              <tree type="42" label="parent" typeLabel="SimpleName" pos="9366" length="6"></tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="9384" length="60">
+            <tree type="43" label="T" typeLabel="SimpleType" pos="9384" length="1">
+              <tree type="42" label="T" typeLabel="SimpleName" pos="9384" length="1"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="9386" length="57">
+              <tree type="42" label="result" typeLabel="SimpleName" pos="9386" length="6"></tree>
+              <tree type="11" typeLabel="CastExpression" pos="9395" length="48">
+                <tree type="43" label="T" typeLabel="SimpleType" pos="9396" length="1">
+                  <tree type="42" label="T" typeLabel="SimpleName" pos="9396" length="1"></tree>
+                </tree>
+                <tree type="32" typeLabel="MethodInvocation" pos="9398" length="45">
+                  <tree type="42" label="createProject" typeLabel="SimpleName" pos="9398" length="13"></tree>
+                  <tree type="32" typeLabel="MethodInvocation" pos="9412" length="19">
+                    <tree type="42" label="src" typeLabel="SimpleName" pos="9412" length="3"></tree>
+                    <tree type="42" label="getDescriptor" typeLabel="SimpleName" pos="9416" length="13"></tree>
+                  </tree>
+                  <tree type="42" label="name" typeLabel="SimpleName" pos="9432" length="4"></tree>
+                  <tree type="9" label="false" typeLabel="BooleanLiteral" pos="9437" length="5"></tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="9477" length="198">
+            <tree type="32" typeLabel="MethodInvocation" pos="9477" length="197">
+              <tree type="42" label="Files" typeLabel="SimpleName" pos="9477" length="5"></tree>
+              <tree type="42" label="copy" typeLabel="SimpleName" pos="9483" length="4"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="9488" length="40">
+                <tree type="42" label="Util" typeLabel="SimpleName" pos="9488" length="4"></tree>
+                <tree type="42" label="fileToPath" typeLabel="SimpleName" pos="9493" length="10"></tree>
+                <tree type="32" typeLabel="MethodInvocation" pos="9504" length="23">
+                  <tree type="42" label="srcConfigFile" typeLabel="SimpleName" pos="9504" length="13"></tree>
+                  <tree type="42" label="getFile" typeLabel="SimpleName" pos="9518" length="7"></tree>
+                </tree>
+              </tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="9530" length="54">
+                <tree type="42" label="Util" typeLabel="SimpleName" pos="9530" length="4"></tree>
+                <tree type="42" label="fileToPath" typeLabel="SimpleName" pos="9535" length="10"></tree>
+                <tree type="32" typeLabel="MethodInvocation" pos="9546" length="37">
+                  <tree type="32" typeLabel="MethodInvocation" pos="9546" length="27">
+                    <tree type="42" label="Items" typeLabel="SimpleName" pos="9546" length="5"></tree>
+                    <tree type="42" label="getConfigFile" typeLabel="SimpleName" pos="9552" length="13"></tree>
+                    <tree type="42" label="result" typeLabel="SimpleName" pos="9566" length="6"></tree>
+                  </tree>
+                  <tree type="42" label="getFile" typeLabel="SimpleName" pos="9574" length="7"></tree>
+                </tree>
+              </tree>
+              <tree type="40" label="StandardCopyOption.COPY_ATTRIBUTES" typeLabel="QualifiedName" pos="9602" length="34"></tree>
+              <tree type="40" label="StandardCopyOption.REPLACE_EXISTING" typeLabel="QualifiedName" pos="9638" length="35"></tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="9723" length="41">
+            <tree type="83" label="final" typeLabel="Modifier" pos="9723" length="5"></tree>
+            <tree type="43" label="File" typeLabel="SimpleType" pos="9729" length="4">
+              <tree type="42" label="File" typeLabel="SimpleName" pos="9729" length="4"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="9734" length="29">
+              <tree type="42" label="rootDir" typeLabel="SimpleName" pos="9734" length="7"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="9744" length="19">
+                <tree type="42" label="result" typeLabel="SimpleName" pos="9744" length="6"></tree>
+                <tree type="42" label="getRootDir" typeLabel="SimpleName" pos="9751" length="10"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="9773" length="228">
+            <tree type="7" label="=" typeLabel="Assignment" pos="9773" length="227">
+              <tree type="42" label="result" typeLabel="SimpleName" pos="9773" length="6"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="9782" length="218">
+                <tree type="42" label="Items" typeLabel="SimpleName" pos="9782" length="5"></tree>
+                <tree type="42" label="whileUpdatingByXml" typeLabel="SimpleName" pos="9788" length="18"></tree>
+                <tree type="14" typeLabel="ClassInstanceCreation" pos="9807" length="192">
+                  <tree type="74" label="NotReallyRoleSensitiveCallable&lt;T,IOException&gt;" typeLabel="ParameterizedType" pos="9811" length="45">
+                    <tree type="43" label="NotReallyRoleSensitiveCallable" typeLabel="SimpleType" pos="9811" length="30">
+                      <tree type="42" label="NotReallyRoleSensitiveCallable" typeLabel="SimpleName" pos="9811" length="30"></tree>
+                    </tree>
+                    <tree type="43" label="T" typeLabel="SimpleType" pos="9842" length="1">
+                      <tree type="42" label="T" typeLabel="SimpleName" pos="9842" length="1"></tree>
+                    </tree>
+                    <tree type="43" label="IOException" typeLabel="SimpleType" pos="9844" length="11">
+                      <tree type="42" label="IOException" typeLabel="SimpleName" pos="9844" length="11"></tree>
+                    </tree>
+                  </tree>
+                  <tree type="1" typeLabel="AnonymousClassDeclaration" pos="9859" length="140">
+                    <tree type="31" typeLabel="MethodDeclaration" pos="9873" length="116">
+                      <tree type="78" typeLabel="MarkerAnnotation" pos="9873" length="9">
+                        <tree type="42" label="Override" typeLabel="SimpleName" pos="9874" length="8"></tree>
+                      </tree>
+                      <tree type="83" label="public" typeLabel="Modifier" pos="9883" length="6"></tree>
+                      <tree type="43" label="T" typeLabel="SimpleType" pos="9890" length="1">
+                        <tree type="42" label="T" typeLabel="SimpleName" pos="9890" length="1"></tree>
+                      </tree>
+                      <tree type="42" label="call" typeLabel="SimpleName" pos="9892" length="4"></tree>
+                      <tree type="43" label="IOException" typeLabel="SimpleType" pos="9906" length="11">
+                        <tree type="42" label="IOException" typeLabel="SimpleName" pos="9906" length="11"></tree>
+                      </tree>
+                      <tree type="8" typeLabel="Block" pos="9918" length="71">
+                        <tree type="41" typeLabel="ReturnStatement" pos="9936" length="39">
+                          <tree type="11" typeLabel="CastExpression" pos="9943" length="31">
+                            <tree type="43" label="T" typeLabel="SimpleType" pos="9944" length="1">
+                              <tree type="42" label="T" typeLabel="SimpleName" pos="9944" length="1"></tree>
+                            </tree>
+                            <tree type="32" typeLabel="MethodInvocation" pos="9947" length="27">
+                              <tree type="42" label="Items" typeLabel="SimpleName" pos="9947" length="5"></tree>
+                              <tree type="42" label="load" typeLabel="SimpleName" pos="9953" length="4"></tree>
+                              <tree type="42" label="parent" typeLabel="SimpleName" pos="9958" length="6"></tree>
+                              <tree type="42" label="rootDir" typeLabel="SimpleName" pos="9966" length="7"></tree>
+                            </tree>
+                          </tree>
+                        </tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="10010" length="25">
+            <tree type="32" typeLabel="MethodInvocation" pos="10010" length="24">
+              <tree type="42" label="result" typeLabel="SimpleName" pos="10010" length="6"></tree>
+              <tree type="42" label="onCopiedFrom" typeLabel="SimpleName" pos="10017" length="12"></tree>
+              <tree type="42" label="src" typeLabel="SimpleName" pos="10030" length="3"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="10045" length="12">
+            <tree type="32" typeLabel="MethodInvocation" pos="10045" length="11">
+              <tree type="42" label="add" typeLabel="SimpleName" pos="10045" length="3"></tree>
+              <tree type="42" label="result" typeLabel="SimpleName" pos="10049" length="6"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="10066" length="38">
+            <tree type="32" typeLabel="MethodInvocation" pos="10066" length="37">
+              <tree type="42" label="ItemListener" typeLabel="SimpleName" pos="10066" length="12"></tree>
+              <tree type="42" label="fireOnCopied" typeLabel="SimpleName" pos="10079" length="12"></tree>
+              <tree type="42" label="src" typeLabel="SimpleName" pos="10092" length="3"></tree>
+              <tree type="42" label="result" typeLabel="SimpleName" pos="10096" length="6"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="10113" length="52">
+            <tree type="32" typeLabel="MethodInvocation" pos="10113" length="51">
+              <tree type="32" typeLabel="MethodInvocation" pos="10113" length="21">
+                <tree type="42" label="Jenkins" typeLabel="SimpleName" pos="10113" length="7"></tree>
+                <tree type="42" label="getInstance" typeLabel="SimpleName" pos="10121" length="11"></tree>
+              </tree>
+              <tree type="42" label="rebuildDependencyGraphAsync" typeLabel="SimpleName" pos="10135" length="27"></tree>
+            </tree>
+          </tree>
+          <tree type="41" typeLabel="ReturnStatement" pos="10175" length="14">
+            <tree type="42" label="result" typeLabel="SimpleName" pos="10182" length="6"></tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="10201" length="1947">
+        <tree type="83" label="public" typeLabel="Modifier" pos="10201" length="6"></tree>
+        <tree type="83" label="synchronized" typeLabel="Modifier" pos="10208" length="12"></tree>
+        <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="10221" length="12">
+          <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="10221" length="12"></tree>
+        </tree>
+        <tree type="42" label="createProjectFromXML" typeLabel="SimpleName" pos="10234" length="20"></tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="10255" length="11">
+          <tree type="43" label="String" typeLabel="SimpleType" pos="10255" length="6">
+            <tree type="42" label="String" typeLabel="SimpleName" pos="10255" length="6"></tree>
+          </tree>
+          <tree type="42" label="name" typeLabel="SimpleName" pos="10262" length="4"></tree>
+        </tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="10268" length="15">
+          <tree type="43" label="InputStream" typeLabel="SimpleType" pos="10268" length="11">
+            <tree type="42" label="InputStream" typeLabel="SimpleName" pos="10268" length="11"></tree>
+          </tree>
+          <tree type="42" label="xml" typeLabel="SimpleName" pos="10280" length="3"></tree>
+        </tree>
+        <tree type="43" label="IOException" typeLabel="SimpleType" pos="10292" length="11">
+          <tree type="42" label="IOException" typeLabel="SimpleName" pos="10292" length="11"></tree>
+        </tree>
+        <tree type="8" typeLabel="Block" pos="10304" length="1844">
+          <tree type="21" typeLabel="ExpressionStatement" pos="10314" length="33">
+            <tree type="32" typeLabel="MethodInvocation" pos="10314" length="32">
+              <tree type="42" label="acl" typeLabel="SimpleName" pos="10314" length="3"></tree>
+              <tree type="42" label="checkPermission" typeLabel="SimpleName" pos="10318" length="15"></tree>
+              <tree type="40" label="Item.CREATE" typeLabel="QualifiedName" pos="10334" length="11"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="10357" length="65">
+            <tree type="32" typeLabel="MethodInvocation" pos="10357" length="64">
+              <tree type="32" typeLabel="MethodInvocation" pos="10357" length="48">
+                <tree type="32" typeLabel="MethodInvocation" pos="10357" length="21">
+                  <tree type="42" label="Jenkins" typeLabel="SimpleName" pos="10357" length="7"></tree>
+                  <tree type="42" label="getInstance" typeLabel="SimpleName" pos="10365" length="11"></tree>
+                </tree>
+                <tree type="42" label="getProjectNamingStrategy" typeLabel="SimpleName" pos="10379" length="24"></tree>
+              </tree>
+              <tree type="42" label="checkName" typeLabel="SimpleName" pos="10406" length="9"></tree>
+              <tree type="42" label="name" typeLabel="SimpleName" pos="10416" length="4"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="10431" length="56">
+            <tree type="32" typeLabel="MethodInvocation" pos="10431" length="55">
+              <tree type="42" label="Items" typeLabel="SimpleName" pos="10431" length="5"></tree>
+              <tree type="42" label="verifyItemDoesNotAlreadyExist" typeLabel="SimpleName" pos="10437" length="29"></tree>
+              <tree type="42" label="parent" typeLabel="SimpleName" pos="10467" length="6"></tree>
+              <tree type="42" label="name" typeLabel="SimpleName" pos="10475" length="4"></tree>
+              <tree type="33" typeLabel="NullLiteral" pos="10481" length="4"></tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="10531" length="68">
+            <tree type="43" label="File" typeLabel="SimpleType" pos="10531" length="4">
+              <tree type="42" label="File" typeLabel="SimpleName" pos="10531" length="4"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="10536" length="62">
+              <tree type="42" label="configXml" typeLabel="SimpleName" pos="10536" length="9"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="10548" length="50">
+                <tree type="32" typeLabel="MethodInvocation" pos="10548" length="40">
+                  <tree type="42" label="Items" typeLabel="SimpleName" pos="10548" length="5"></tree>
+                  <tree type="42" label="getConfigFile" typeLabel="SimpleName" pos="10554" length="13"></tree>
+                  <tree type="32" typeLabel="MethodInvocation" pos="10568" length="19">
+                    <tree type="42" label="getRootDirFor" typeLabel="SimpleName" pos="10568" length="13"></tree>
+                    <tree type="42" label="name" typeLabel="SimpleName" pos="10582" length="4"></tree>
+                  </tree>
+                </tree>
+                <tree type="42" label="getFile" typeLabel="SimpleName" pos="10589" length="7"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="10608" length="43">
+            <tree type="83" label="final" typeLabel="Modifier" pos="10608" length="5"></tree>
+            <tree type="43" label="File" typeLabel="SimpleType" pos="10614" length="4">
+              <tree type="42" label="File" typeLabel="SimpleName" pos="10614" length="4"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="10619" length="31">
+              <tree type="42" label="dir" typeLabel="SimpleName" pos="10619" length="3"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="10625" length="25">
+                <tree type="42" label="configXml" typeLabel="SimpleName" pos="10625" length="9"></tree>
+                <tree type="42" label="getParentFile" typeLabel="SimpleName" pos="10635" length="13"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="10660" length="13">
+            <tree type="32" typeLabel="MethodInvocation" pos="10660" length="12">
+              <tree type="42" label="dir" typeLabel="SimpleName" pos="10660" length="3"></tree>
+              <tree type="42" label="mkdirs" typeLabel="SimpleName" pos="10664" length="6"></tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="10682" length="24">
+            <tree type="39" label="boolean" typeLabel="PrimitiveType" pos="10682" length="7"></tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="10690" length="15">
+              <tree type="42" label="success" typeLabel="SimpleName" pos="10690" length="7"></tree>
+              <tree type="9" label="false" typeLabel="BooleanLiteral" pos="10700" length="5"></tree>
+            </tree>
+          </tree>
+          <tree type="54" typeLabel="TryStatement" pos="10715" length="1427">
+            <tree type="8" typeLabel="Block" pos="10719" length="781">
+              <tree type="21" typeLabel="ExpressionStatement" pos="10733" length="83">
+                <tree type="32" typeLabel="MethodInvocation" pos="10733" length="82">
+                  <tree type="42" label="XMLUtils" typeLabel="SimpleName" pos="10733" length="8"></tree>
+                  <tree type="42" label="safeTransform" typeLabel="SimpleName" pos="10742" length="13"></tree>
+                  <tree type="11" typeLabel="CastExpression" pos="10756" length="29">
+                    <tree type="43" label="Source" typeLabel="SimpleType" pos="10757" length="6">
+                      <tree type="42" label="Source" typeLabel="SimpleName" pos="10757" length="6"></tree>
+                    </tree>
+                    <tree type="14" typeLabel="ClassInstanceCreation" pos="10764" length="21">
+                      <tree type="43" label="StreamSource" typeLabel="SimpleType" pos="10768" length="12">
+                        <tree type="42" label="StreamSource" typeLabel="SimpleName" pos="10768" length="12"></tree>
+                      </tree>
+                      <tree type="42" label="xml" typeLabel="SimpleName" pos="10781" length="3"></tree>
+                    </tree>
+                  </tree>
+                  <tree type="14" typeLabel="ClassInstanceCreation" pos="10787" length="27">
+                    <tree type="43" label="StreamResult" typeLabel="SimpleType" pos="10791" length="12">
+                      <tree type="42" label="StreamResult" typeLabel="SimpleName" pos="10791" length="12"></tree>
+                    </tree>
+                    <tree type="42" label="configXml" typeLabel="SimpleName" pos="10804" length="9"></tree>
+                  </tree>
+                </tree>
+              </tree>
+              <tree type="60" typeLabel="VariableDeclarationStatement" pos="10853" length="286">
+                <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="10853" length="12">
+                  <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="10853" length="12"></tree>
+                </tree>
+                <tree type="59" typeLabel="VariableDeclarationFragment" pos="10866" length="272">
+                  <tree type="42" label="result" typeLabel="SimpleName" pos="10866" length="6"></tree>
+                  <tree type="32" typeLabel="MethodInvocation" pos="10875" length="263">
+                    <tree type="42" label="Items" typeLabel="SimpleName" pos="10875" length="5"></tree>
+                    <tree type="42" label="whileUpdatingByXml" typeLabel="SimpleName" pos="10881" length="18"></tree>
+                    <tree type="14" typeLabel="ClassInstanceCreation" pos="10900" length="237">
+                      <tree type="74" label="NotReallyRoleSensitiveCallable&lt;TopLevelItem,IOException&gt;" typeLabel="ParameterizedType" pos="10904" length="56">
+                        <tree type="43" label="NotReallyRoleSensitiveCallable" typeLabel="SimpleType" pos="10904" length="30">
+                          <tree type="42" label="NotReallyRoleSensitiveCallable" typeLabel="SimpleName" pos="10904" length="30"></tree>
+                        </tree>
+                        <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="10935" length="12">
+                          <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="10935" length="12"></tree>
+                        </tree>
+                        <tree type="43" label="IOException" typeLabel="SimpleType" pos="10948" length="11">
+                          <tree type="42" label="IOException" typeLabel="SimpleName" pos="10948" length="11"></tree>
+                        </tree>
+                      </tree>
+                      <tree type="1" typeLabel="AnonymousClassDeclaration" pos="10963" length="174">
+                        <tree type="31" typeLabel="MethodDeclaration" pos="10981" length="142">
+                          <tree type="78" typeLabel="MarkerAnnotation" pos="10981" length="9">
+                            <tree type="42" label="Override" typeLabel="SimpleName" pos="10982" length="8"></tree>
+                          </tree>
+                          <tree type="83" label="public" typeLabel="Modifier" pos="10991" length="6"></tree>
+                          <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="10998" length="12">
+                            <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="10998" length="12"></tree>
+                          </tree>
+                          <tree type="42" label="call" typeLabel="SimpleName" pos="11011" length="4"></tree>
+                          <tree type="43" label="IOException" typeLabel="SimpleType" pos="11025" length="11">
+                            <tree type="42" label="IOException" typeLabel="SimpleName" pos="11025" length="11"></tree>
+                          </tree>
+                          <tree type="8" typeLabel="Block" pos="11037" length="86">
+                            <tree type="41" typeLabel="ReturnStatement" pos="11059" length="46">
+                              <tree type="11" typeLabel="CastExpression" pos="11066" length="38">
+                                <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="11067" length="12">
+                                  <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="11067" length="12"></tree>
+                                </tree>
+                                <tree type="32" typeLabel="MethodInvocation" pos="11081" length="23">
+                                  <tree type="42" label="Items" typeLabel="SimpleName" pos="11081" length="5"></tree>
+                                  <tree type="42" label="load" typeLabel="SimpleName" pos="11087" length="4"></tree>
+                                  <tree type="42" label="parent" typeLabel="SimpleName" pos="11092" length="6"></tree>
+                                  <tree type="42" label="dir" typeLabel="SimpleName" pos="11100" length="3"></tree>
+                                </tree>
+                              </tree>
+                            </tree>
+                          </tree>
+                        </tree>
+                      </tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+              <tree type="21" typeLabel="ExpressionStatement" pos="11153" length="169">
+                <tree type="7" label="=" typeLabel="Assignment" pos="11153" length="168">
+                  <tree type="42" label="success" typeLabel="SimpleName" pos="11153" length="7"></tree>
+                  <tree type="27" label="&amp;&amp;" typeLabel="InfixExpression" pos="11163" length="158">
+                    <tree type="32" typeLabel="MethodInvocation" pos="11163" length="93">
+                      <tree type="32" typeLabel="MethodInvocation" pos="11163" length="12">
+                        <tree type="42" label="acl" typeLabel="SimpleName" pos="11163" length="3"></tree>
+                        <tree type="42" label="getACL" typeLabel="SimpleName" pos="11167" length="6"></tree>
+                      </tree>
+                      <tree type="42" label="hasCreatePermission" typeLabel="SimpleName" pos="11176" length="19"></tree>
+                      <tree type="32" typeLabel="MethodInvocation" pos="11196" length="27">
+                        <tree type="42" label="Jenkins" typeLabel="SimpleName" pos="11196" length="7"></tree>
+                        <tree type="42" label="getAuthentication" typeLabel="SimpleName" pos="11204" length="17"></tree>
+                      </tree>
+                      <tree type="42" label="parent" typeLabel="SimpleName" pos="11225" length="6"></tree>
+                      <tree type="32" typeLabel="MethodInvocation" pos="11233" length="22">
+                        <tree type="42" label="result" typeLabel="SimpleName" pos="11233" length="6"></tree>
+                        <tree type="42" label="getDescriptor" typeLabel="SimpleName" pos="11240" length="13"></tree>
+                      </tree>
+                    </tree>
+                    <tree type="32" typeLabel="MethodInvocation" pos="11276" length="45">
+                      <tree type="32" typeLabel="MethodInvocation" pos="11276" length="22">
+                        <tree type="42" label="result" typeLabel="SimpleName" pos="11276" length="6"></tree>
+                        <tree type="42" label="getDescriptor" typeLabel="SimpleName" pos="11283" length="13"></tree>
+                      </tree>
+                      <tree type="42" label="isApplicableIn" typeLabel="SimpleName" pos="11299" length="14"></tree>
+                      <tree type="42" label="parent" typeLabel="SimpleName" pos="11314" length="6"></tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+              <tree type="21" typeLabel="ExpressionStatement" pos="11336" length="12">
+                <tree type="32" typeLabel="MethodInvocation" pos="11336" length="11">
+                  <tree type="42" label="add" typeLabel="SimpleName" pos="11336" length="3"></tree>
+                  <tree type="42" label="result" typeLabel="SimpleName" pos="11340" length="6"></tree>
+                </tree>
+              </tree>
+              <tree type="21" typeLabel="ExpressionStatement" pos="11362" length="35">
+                <tree type="32" typeLabel="MethodInvocation" pos="11362" length="34">
+                  <tree type="42" label="ItemListener" typeLabel="SimpleName" pos="11362" length="12"></tree>
+                  <tree type="42" label="fireOnCreated" typeLabel="SimpleName" pos="11375" length="13"></tree>
+                  <tree type="42" label="result" typeLabel="SimpleName" pos="11389" length="6"></tree>
+                </tree>
+              </tree>
+              <tree type="21" typeLabel="ExpressionStatement" pos="11410" length="52">
+                <tree type="32" typeLabel="MethodInvocation" pos="11410" length="51">
+                  <tree type="32" typeLabel="MethodInvocation" pos="11410" length="21">
+                    <tree type="42" label="Jenkins" typeLabel="SimpleName" pos="11410" length="7"></tree>
+                    <tree type="42" label="getInstance" typeLabel="SimpleName" pos="11418" length="11"></tree>
+                  </tree>
+                  <tree type="42" label="rebuildDependencyGraphAsync" typeLabel="SimpleName" pos="11432" length="27"></tree>
+                </tree>
+              </tree>
+              <tree type="41" typeLabel="ReturnStatement" pos="11476" length="14">
+                <tree type="42" label="result" typeLabel="SimpleName" pos="11483" length="6"></tree>
+              </tree>
+            </tree>
+            <tree type="12" typeLabel="CatchClause" pos="11501" length="141">
+              <tree type="44" typeLabel="SingleVariableDeclaration" pos="11508" length="22">
+                <tree type="43" label="TransformerException" typeLabel="SimpleType" pos="11508" length="20">
+                  <tree type="42" label="TransformerException" typeLabel="SimpleName" pos="11508" length="20"></tree>
+                </tree>
+                <tree type="42" label="e" typeLabel="SimpleName" pos="11529" length="1"></tree>
+              </tree>
+              <tree type="8" typeLabel="Block" pos="11532" length="110">
+                <tree type="21" typeLabel="ExpressionStatement" pos="11546" length="16">
+                  <tree type="7" label="=" typeLabel="Assignment" pos="11546" length="15">
+                    <tree type="42" label="success" typeLabel="SimpleName" pos="11546" length="7"></tree>
+                    <tree type="9" label="false" typeLabel="BooleanLiteral" pos="11556" length="5"></tree>
+                  </tree>
+                </tree>
+                <tree type="53" typeLabel="ThrowStatement" pos="11575" length="57">
+                  <tree type="14" typeLabel="ClassInstanceCreation" pos="11581" length="50">
+                    <tree type="43" label="IOException" typeLabel="SimpleType" pos="11585" length="11">
+                      <tree type="42" label="IOException" typeLabel="SimpleName" pos="11585" length="11"></tree>
+                    </tree>
+                    <tree type="45" label="&quot;Failed to persist config.xml&quot;" typeLabel="StringLiteral" pos="11597" length="30"></tree>
+                    <tree type="42" label="e" typeLabel="SimpleName" pos="11629" length="1"></tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+            <tree type="12" typeLabel="CatchClause" pos="11643" length="133">
+              <tree type="44" typeLabel="SingleVariableDeclaration" pos="11650" length="14">
+                <tree type="43" label="SAXException" typeLabel="SimpleType" pos="11650" length="12">
+                  <tree type="42" label="SAXException" typeLabel="SimpleName" pos="11650" length="12"></tree>
+                </tree>
+                <tree type="42" label="e" typeLabel="SimpleName" pos="11663" length="1"></tree>
+              </tree>
+              <tree type="8" typeLabel="Block" pos="11666" length="110">
+                <tree type="21" typeLabel="ExpressionStatement" pos="11680" length="16">
+                  <tree type="7" label="=" typeLabel="Assignment" pos="11680" length="15">
+                    <tree type="42" label="success" typeLabel="SimpleName" pos="11680" length="7"></tree>
+                    <tree type="9" label="false" typeLabel="BooleanLiteral" pos="11690" length="5"></tree>
+                  </tree>
+                </tree>
+                <tree type="53" typeLabel="ThrowStatement" pos="11709" length="57">
+                  <tree type="14" typeLabel="ClassInstanceCreation" pos="11715" length="50">
+                    <tree type="43" label="IOException" typeLabel="SimpleType" pos="11719" length="11">
+                      <tree type="42" label="IOException" typeLabel="SimpleName" pos="11719" length="11"></tree>
+                    </tree>
+                    <tree type="45" label="&quot;Failed to persist config.xml&quot;" typeLabel="StringLiteral" pos="11731" length="30"></tree>
+                    <tree type="42" label="e" typeLabel="SimpleName" pos="11763" length="1"></tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+            <tree type="12" typeLabel="CatchClause" pos="11777" length="83">
+              <tree type="44" typeLabel="SingleVariableDeclaration" pos="11784" length="13">
+                <tree type="43" label="IOException" typeLabel="SimpleType" pos="11784" length="11">
+                  <tree type="42" label="IOException" typeLabel="SimpleName" pos="11784" length="11"></tree>
+                </tree>
+                <tree type="42" label="e" typeLabel="SimpleName" pos="11796" length="1"></tree>
+              </tree>
+              <tree type="8" typeLabel="Block" pos="11799" length="61">
+                <tree type="21" typeLabel="ExpressionStatement" pos="11813" length="16">
+                  <tree type="7" label="=" typeLabel="Assignment" pos="11813" length="15">
+                    <tree type="42" label="success" typeLabel="SimpleName" pos="11813" length="7"></tree>
+                    <tree type="9" label="false" typeLabel="BooleanLiteral" pos="11823" length="5"></tree>
+                  </tree>
+                </tree>
+                <tree type="53" typeLabel="ThrowStatement" pos="11842" length="8">
+                  <tree type="42" label="e" typeLabel="SimpleName" pos="11848" length="1"></tree>
+                </tree>
+              </tree>
+            </tree>
+            <tree type="12" typeLabel="CatchClause" pos="11861" length="88">
+              <tree type="44" typeLabel="SingleVariableDeclaration" pos="11868" length="18">
+                <tree type="43" label="RuntimeException" typeLabel="SimpleType" pos="11868" length="16">
+                  <tree type="42" label="RuntimeException" typeLabel="SimpleName" pos="11868" length="16"></tree>
+                </tree>
+                <tree type="42" label="e" typeLabel="SimpleName" pos="11885" length="1"></tree>
+              </tree>
+              <tree type="8" typeLabel="Block" pos="11888" length="61">
+                <tree type="21" typeLabel="ExpressionStatement" pos="11902" length="16">
+                  <tree type="7" label="=" typeLabel="Assignment" pos="11902" length="15">
+                    <tree type="42" label="success" typeLabel="SimpleName" pos="11902" length="7"></tree>
+                    <tree type="9" label="false" typeLabel="BooleanLiteral" pos="11912" length="5"></tree>
+                  </tree>
+                </tree>
+                <tree type="53" typeLabel="ThrowStatement" pos="11931" length="8">
+                  <tree type="42" label="e" typeLabel="SimpleName" pos="11937" length="1"></tree>
+                </tree>
+              </tree>
+            </tree>
+            <tree type="8" typeLabel="Block" pos="11958" length="184">
+              <tree type="25" typeLabel="IfStatement" pos="11972" length="160">
+                <tree type="38" label="!" typeLabel="PrefixExpression" pos="11976" length="8">
+                  <tree type="42" label="success" typeLabel="SimpleName" pos="11977" length="7"></tree>
+                </tree>
+                <tree type="8" typeLabel="Block" pos="11986" length="146">
+                  <tree type="21" typeLabel="ExpressionStatement" pos="12092" length="26">
+                    <tree type="32" typeLabel="MethodInvocation" pos="12092" length="25">
+                      <tree type="42" label="Util" typeLabel="SimpleName" pos="12092" length="4"></tree>
+                      <tree type="42" label="deleteRecursive" typeLabel="SimpleName" pos="12097" length="15"></tree>
+                      <tree type="42" label="dir" typeLabel="SimpleName" pos="12113" length="3"></tree>
+                    </tree>
+                  </tree>
+                </tree>
+              </tree>
+            </tree>
+          </tree>
+        </tree>
+      </tree>
+      <tree type="31" typeLabel="MethodDeclaration" pos="12154" length="713">
+        <tree type="83" label="public" typeLabel="Modifier" pos="12154" length="6"></tree>
+        <tree type="83" label="synchronized" typeLabel="Modifier" pos="12161" length="12"></tree>
+        <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="12174" length="12">
+          <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="12174" length="12"></tree>
+        </tree>
+        <tree type="42" label="createProject" typeLabel="SimpleName" pos="12187" length="13"></tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="12202" length="27">
+          <tree type="43" label="TopLevelItemDescriptor" typeLabel="SimpleType" pos="12202" length="22">
+            <tree type="42" label="TopLevelItemDescriptor" typeLabel="SimpleName" pos="12202" length="22"></tree>
+          </tree>
+          <tree type="42" label="type" typeLabel="SimpleName" pos="12225" length="4"></tree>
+        </tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="12231" length="11">
+          <tree type="43" label="String" typeLabel="SimpleType" pos="12231" length="6">
+            <tree type="42" label="String" typeLabel="SimpleName" pos="12231" length="6"></tree>
+          </tree>
+          <tree type="42" label="name" typeLabel="SimpleName" pos="12238" length="4"></tree>
+        </tree>
+        <tree type="44" typeLabel="SingleVariableDeclaration" pos="12244" length="14">
+          <tree type="39" label="boolean" typeLabel="PrimitiveType" pos="12244" length="7"></tree>
+          <tree type="42" label="notify" typeLabel="SimpleName" pos="12252" length="6"></tree>
+        </tree>
+        <tree type="43" label="IOException" typeLabel="SimpleType" pos="12280" length="11">
+          <tree type="42" label="IOException" typeLabel="SimpleName" pos="12280" length="11"></tree>
+        </tree>
+        <tree type="8" typeLabel="Block" pos="12292" length="575">
+          <tree type="21" typeLabel="ExpressionStatement" pos="12302" length="33">
+            <tree type="32" typeLabel="MethodInvocation" pos="12302" length="32">
+              <tree type="42" label="acl" typeLabel="SimpleName" pos="12302" length="3"></tree>
+              <tree type="42" label="checkPermission" typeLabel="SimpleName" pos="12306" length="15"></tree>
+              <tree type="40" label="Item.CREATE" typeLabel="QualifiedName" pos="12322" length="11"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="12344" length="31">
+            <tree type="32" typeLabel="MethodInvocation" pos="12344" length="30">
+              <tree type="42" label="type" typeLabel="SimpleName" pos="12344" length="4"></tree>
+              <tree type="42" label="checkApplicableIn" typeLabel="SimpleName" pos="12349" length="17"></tree>
+              <tree type="42" label="parent" typeLabel="SimpleName" pos="12367" length="6"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="12384" length="49">
+            <tree type="32" typeLabel="MethodInvocation" pos="12384" length="48">
+              <tree type="32" typeLabel="MethodInvocation" pos="12384" length="12">
+                <tree type="42" label="acl" typeLabel="SimpleName" pos="12384" length="3"></tree>
+                <tree type="42" label="getACL" typeLabel="SimpleName" pos="12388" length="6"></tree>
+              </tree>
+              <tree type="42" label="checkCreatePermission" typeLabel="SimpleName" pos="12397" length="21"></tree>
+              <tree type="42" label="parent" typeLabel="SimpleName" pos="12419" length="6"></tree>
+              <tree type="42" label="type" typeLabel="SimpleName" pos="12427" length="4"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="12443" length="65">
+            <tree type="32" typeLabel="MethodInvocation" pos="12443" length="64">
+              <tree type="32" typeLabel="MethodInvocation" pos="12443" length="48">
+                <tree type="32" typeLabel="MethodInvocation" pos="12443" length="21">
+                  <tree type="42" label="Jenkins" typeLabel="SimpleName" pos="12443" length="7"></tree>
+                  <tree type="42" label="getInstance" typeLabel="SimpleName" pos="12451" length="11"></tree>
+                </tree>
+                <tree type="42" label="getProjectNamingStrategy" typeLabel="SimpleName" pos="12465" length="24"></tree>
+              </tree>
+              <tree type="42" label="checkName" typeLabel="SimpleName" pos="12492" length="9"></tree>
+              <tree type="42" label="name" typeLabel="SimpleName" pos="12502" length="4"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="12517" length="56">
+            <tree type="32" typeLabel="MethodInvocation" pos="12517" length="55">
+              <tree type="42" label="Items" typeLabel="SimpleName" pos="12517" length="5"></tree>
+              <tree type="42" label="verifyItemDoesNotAlreadyExist" typeLabel="SimpleName" pos="12523" length="29"></tree>
+              <tree type="42" label="parent" typeLabel="SimpleName" pos="12553" length="6"></tree>
+              <tree type="42" label="name" typeLabel="SimpleName" pos="12561" length="4"></tree>
+              <tree type="33" typeLabel="NullLiteral" pos="12567" length="4"></tree>
+            </tree>
+          </tree>
+          <tree type="60" typeLabel="VariableDeclarationStatement" pos="12583" length="51">
+            <tree type="43" label="TopLevelItem" typeLabel="SimpleType" pos="12583" length="12">
+              <tree type="42" label="TopLevelItem" typeLabel="SimpleName" pos="12583" length="12"></tree>
+            </tree>
+            <tree type="59" typeLabel="VariableDeclarationFragment" pos="12596" length="37">
+              <tree type="42" label="item" typeLabel="SimpleName" pos="12596" length="4"></tree>
+              <tree type="32" typeLabel="MethodInvocation" pos="12603" length="30">
+                <tree type="42" label="type" typeLabel="SimpleName" pos="12603" length="4"></tree>
+                <tree type="42" label="newInstance" typeLabel="SimpleName" pos="12608" length="11"></tree>
+                <tree type="42" label="parent" typeLabel="SimpleName" pos="12620" length="6"></tree>
+                <tree type="42" label="name" typeLabel="SimpleName" pos="12628" length="4"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="12643" length="28">
+            <tree type="32" typeLabel="MethodInvocation" pos="12643" length="27">
+              <tree type="42" label="item" typeLabel="SimpleName" pos="12643" length="4"></tree>
+              <tree type="42" label="onCreatedFromScratch" typeLabel="SimpleName" pos="12648" length="20"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="12680" length="12">
+            <tree type="32" typeLabel="MethodInvocation" pos="12680" length="11">
+              <tree type="42" label="item" typeLabel="SimpleName" pos="12680" length="4"></tree>
+              <tree type="42" label="save" typeLabel="SimpleName" pos="12685" length="4"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="12701" length="10">
+            <tree type="32" typeLabel="MethodInvocation" pos="12701" length="9">
+              <tree type="42" label="add" typeLabel="SimpleName" pos="12701" length="3"></tree>
+              <tree type="42" label="item" typeLabel="SimpleName" pos="12705" length="4"></tree>
+            </tree>
+          </tree>
+          <tree type="21" typeLabel="ExpressionStatement" pos="12720" length="52">
+            <tree type="32" typeLabel="MethodInvocation" pos="12720" length="51">
+              <tree type="32" typeLabel="MethodInvocation" pos="12720" length="21">
+                <tree type="42" label="Jenkins" typeLabel="SimpleName" pos="12720" length="7"></tree>
+                <tree type="42" label="getInstance" typeLabel="SimpleName" pos="12728" length="11"></tree>
+              </tree>
+              <tree type="42" label="rebuildDependencyGraphAsync" typeLabel="SimpleName" pos="12742" length="27"></tree>
+            </tree>
+          </tree>
+          <tree type="25" typeLabel="IfStatement" pos="12782" length="57">
+            <tree type="42" label="notify" typeLabel="SimpleName" pos="12786" length="6"></tree>
+            <tree type="21" typeLabel="ExpressionStatement" pos="12806" length="33">
+              <tree type="32" typeLabel="MethodInvocation" pos="12806" length="32">
+                <tree type="42" label="ItemListener" typeLabel="SimpleName" pos="12806" length="12"></tree>
+                <tree type="42" label="fireOnCreated" typeLabel="SimpleName" pos="12819" length="13"></tree>
+                <tree type="42" label="item" typeLabel="SimpleName" pos="12833" length="4"></tree>
+              </tree>
+            </tree>
+          </tree>
+          <tree type="41" typeLabel="ReturnStatement" pos="12849" length="12">
+            <tree type="42" label="item" typeLabel="SimpleName" pos="12856" length="4"></tree>
+          </tree>
+        </tree>
+      </tree>
+    </tree>
+  </tree>
+</root>
